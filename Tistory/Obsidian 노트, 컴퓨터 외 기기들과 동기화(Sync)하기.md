@@ -80,17 +80,19 @@ iCloud는 파일을 모바일 기기로 동기화합니다. Vault의 크기에 �
 
 ## Working Copy
 
-Working Copy 노트를 Git 리포지토리에 저장하는 경우 Working Copy라는 iOS용 Git 클라이언트를 살펴보는 것이 좋습니다.
+Working Copy 노트를 [Git](https://git-scm.com/) 리포지토리에 저장하는 경우 [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) 라는 iOS용 Git 클라이언트를 사용하는 것을 추천합니다.
 
-Working Copy를 사용하여 동기화하는 방법:
+[Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) 를 사용하여 동기화하는 방법:
 
-1. iPhone 또는 iPad에서 비어 있는 Vault를 만듭니다.
-2. Setup Folder Sync 동작을 사용하고 비어 있는 Vault를 선택합니다.
+1. iPhone 또는 iPad에 비어 있는 Vault 를 만듭니다.
+2. Setup Folder Sync 동작을 사용하고 비어 있는 Vault 를 선택합니다.
 3. Working Copy 앱을 사용하여 Vault에 대한 변경 사항을 커밋하고 푸시합니다.
 
 참고: 이 방법은 공식으로 지원하지 않지만 몇몇 사용자가 Working Copy를 사용하여 노트를 성공적으로 동기화했다고 보고했습니다.
 
-X를 사용하여 동기화할 수 없는 이유 우리는 많은 사용자가 파일 동기화에 다른 서비스를 사용하고자 할 것을 이해합니다.
+## X 사용으로 동기화 불가능한 이유
+
+많은 사용자들이 파일 동기화에 다른 서비스를 사용하고자 할 것을 이해합니다.
 
 Obsidian은 iOS에서 다른 Markdown 편집기와는 다르게 작동합니다. 1Writer 및 iA Writer와 같은 편집기는 한 번에 하나의 노트에 액세스하며 내장 문서 지원을 사용할 수 있습니다.
 
