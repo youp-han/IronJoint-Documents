@@ -1,0 +1,11 @@
+{
+  "tistory:tistory-publish": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}

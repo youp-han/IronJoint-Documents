@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "f0c706c9058c9004",
+    "type": "split",
+    "children": [
+      {
+        "id": "0566422eaec13f47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5127b132e57a54a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tistory/Obsidian 노트,  Git-Hub 와 연동하기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ca24e50214003b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0548d4efb735d116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2a8ef450aeb0626",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "402772635d6638dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0c538f84e5fbf5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e5f8b68d305c10c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef8b0be54f043784",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8c6f691c1847a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tistory/Obsidian 노트,  Git-Hub 와 연동하기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16bbc8f9101b9528",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tistory/Obsidian 노트,  Git-Hub 와 연동하기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e2e6480c2efd64a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f608e1cd84c8e1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tistory/Obsidian 노트,  Git-Hub 와 연동하기.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "e2a8ef450aeb0626",
+  "lastOpenFiles": [
+    "Tistory/Obsidian 에서 티스토리로 글 보내기.md",
+    "Tistory/Obsidian 노트,  Git-Hub 와 연동하기.md",
+    "Pasted image 20230922144440.png",
+    "Pasted image 20230922144404.png",
+    "무제 폴더 1",
+    "무제 폴더",
+    "[Obsidian - Sharpen your thinking.md",
+    "Obsidian.md",
+    "Tistory",
+    "업무관련/이노플.md",
+    "업무관련/이랜드 이노플 사무실 주소.md",
+    "업무관련/이랜드.md",
+    "업무관련.md",
+    "Study",
+    "업무관련"
+  ]
+}
