@@ -92,20 +92,29 @@ Working Copy 노트를 [Git](https://git-scm.com/) 리포지토리에 저장하�
 
 ## X 사용으로 동기화 불가능한 이유
 
-많은 사용자들이 파일 동기화에 다른 서비스를 사용하고자 할 것을 이해합니다.
+많은 사용자들이 파일 동기화에 다른 서비스를 사용을 원하는 것을 잘 알고 있습니다.
 
-Obsidian은 iOS에서 다른 Markdown 편집기와는 다르게 작동합니다. 1Writer 및 iA Writer와 같은 편집기는 한 번에 하나의 노트에 액세스하며 내장 문서 지원을 사용할 수 있습니다.
+Obsidian은 iOS 의 다른 Markdown 편집기와는 다르게 작동합니다. 1Writer 및 iA Writer와 같은 편집기는 한 번에 하나의 노트에 액세스하며 내장 문서 지원을 사용할 수 있습니다.
 
-반면에 Obsidian은 Vault 전체에 대한 액세스가 필요한 많은 기능이 있습니다. 예를 들어 파일 이름을 변경하면 Obsidian은 해당 파일에 링크된 Vault 내의 모든 파일을 업데이트해야 합니다.
+반면에 Obsidian 의 많은 기능들이 Vault 전체에 대한 액세스를 필요로 합니다.. 예를 들어 파일 이름을 변경하면 Obsidian은 해당 파일에 링크된 Vault 내의 모든 파일을 업데이트 합니다.
 
-지원되는 위치 이외의 수천 개의 노트로 이루어진 전체 폴더 구조를 읽고 수정하고 모니터링하는 시스템을 구현하는 것은 복잡합니다. 이러한 제한을 앞으로 해결할 계획입니다.
+지원되는 위치 이외의 수천 개의 노트로 이루어진 전체 폴더 구조를 읽고 수정하고 모니터링하는 시스템을 구현하는 것은 복잡합니다. 이러한 제한은 앞으로 해결할 예정 입니다.
 
 개발자라면 각 개별 동기화 서비스에 대한 Web API를 사용하는 플러그인을 만들 수 있습니다.
 
-내 Vault는 어디에 저장되나요? Vault를 만들 때 iCloud Drive를 사용하지 않는다면 Obsidian은 해당 Vault를 Obsidian 앱의 로컬 파일 시스템에 저장합니다. 다른 앱인 Working Copy와 같이 Obsidian 폴더를 파일 시스템에서 선택하여 Vault에 액세스할 수 있습니다.
+## 내 Vault는 어디에 저장되나요? 
 
-주의: Obsidian 앱을 삭제할 때 iOS에서 로컬 파일 시스템에 저장된 노트가 삭제됩니다. Obsidian 앱을 삭제하기 전에 노트를 백업하십시오.
+Vault 를 만들 때 iCloud Drive를 사용하지 않는다면 Obsidian은 해당 Vault를 Obsidian 앱의 로컬 파일 시스템에 저장합니다. 다른 앱인 Working Copy와 같이 Obsidian 폴더를 파일 시스템에서 선택하여 Vault에 액세스할 수 있습니다.
 
-Android에서 노트 동기화 Android 기기에서 노트를 동기화하는 가장 쉬운 방법은 Obsidian Sync를 사용하는 것입니다.
+**주의: Obsidian 앱을 삭제할 때 iOS에서 로컬 파일 시스템에 저장된 노트가 삭제됩니다. Obsidian 앱을 삭제하기 전에 노트를 백업하십시오.**
 
-Obsidian은 Android 기기의 로컬 폴더에 노트를 저장하므로 Dropsync, FolderSync와 같은 폴더 동기화를 허용하는 앱을 사용할 수도 있습니다. Obsidian은 Documents 폴더 내의 Obsidian 폴더를 생성합니다. Documents/Obsidian 하위의 모든 폴더는 Obsidian Vault로 간주됩니다.
+## Android에서 노트 동기화
+
+Android 기기에서 노트를 동기화하는 가장 쉬운 방법은[Obsidian Sync](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync) 를 사용하는 것입니다.
+
+Obsidian은 Android 기기의 로컬 폴더에 노트를 저장하므로, 폴더 동기화를 허용하는 어떠한 앱을 사용할 수 있습니다. 
+
+- [Dropsync](https://play.google.com/store/apps/details?id=com.ttxapps.dropsync) 
+- [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) 
+
+Obsidian은 Documents 폴더 내의 Obsidian 폴더를 생성합니다. Documents/Obsidian 하위의 모든 폴더는 Obsidian Vault로 간주됩니다.
