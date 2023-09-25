@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tistory/Obsidian 노트,  Git-Hub 와 연동하기.md",
+                "file": "Tistory/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tistory/Obsidian 노트,  Git-Hub 와 연동하기.md",
+                "file": "Tistory/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tistory/Obsidian 노트,  Git-Hub 와 연동하기.md",
+                "file": "Tistory/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tistory/Obsidian 노트,  Git-Hub 와 연동하기.md"
+                "file": "Tistory/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md"
               }
             }
           }
@@ -149,10 +149,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e2a8ef450aeb0626",
+  "active": "d5127b132e57a54a",
   "lastOpenFiles": [
     "Tistory/Obsidian 에서 티스토리로 글 보내기.md",
-    "Tistory/Obsidian 노트,  Git-Hub 와 연동하기.md",
+    "Tistory/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "Pasted image 20230922144440.png",
     "Pasted image 20230922144404.png",
     "무제 폴더 1",
