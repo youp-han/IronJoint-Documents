@@ -4,13 +4,13 @@ Obsidian 을 사용하여 Tistory 글 작성은 두번째 이며, 그동안 작�
 
 동기화란, Obsidian 으로 기록/작성 된 최신의 노트 들을 내가 사용하는 모든 기기 (랩탑 이나 아이폰 등)에서 읽고 작성할 수 있는 기능입니다. 
 
-기본적으로 Obsidian 에서 제공하는  iPhone 과 iPad 에서 사용할 수 있는 외부 클라우드 저장소는[Obsidian Sync](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync) 와 "iCloud Drive" 가 있으며, 이 중 다른 기기 간에 노트를 동기화하는 가장 쉬운 방법은 Obsidian Sync를 사용하는 것입니다. 이미 Obsidian Sync 구독(유로)을 가지고 있다면 Obsidian Sync 설정 방법을 참조하십시오.
+기본적으로 Obsidian 에서 제공하는 [Obsidian Sync](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync) 와 애플의 [iCloud Drive](https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices#iCloud%20Drive) 가 있으며, 이 중 다른 기기 간에 노트를 동기화하는 가장 쉬운 방법은 - [Obsidian Sync](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync) 를 사용하는 것입니다. 이미 - [Obsidian Sync](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync)  구독(유로)을 가지고 있다면 - [Obsidian Sync](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync)  설정 방법을 참조하십시오.
 
-다른 동시에 여러 동기화 서비스를 사용하는 것(예: Obsidian Sync 및 Dropbox)은 데이터 손실, 손상 및 기타 문제를 일으킬 수 있으므로 주의해야 합니다. 다른 서비스와 함께 Obsidian Sync를 사용하는 방법에 대해 자세히 알아보려면 여기를 확인하십시오.
+다른 동시에 여러 동기화 서비스를 사용하는 것(예: Obsidian Sync 및 Dropbox)은 데이터 손실, 손상 및 기타 문제를 일으킬 수 있으므로 주의해야 합니다. 다른 서비스와 함께 Obsidian Sync를 사용하는 방법에 대해 자세히 알아보려면 [여기](https://help.obsidian.md/Obsidian+Sync/Obsidian+Sync+and+third-party+services) 를 확인하십시오.
 
-만약 Obsidian을 모바일 기기에서 사용하지 않는다면, 로컬 폴더를 클라우드 저장소로 동기화하는 서드파티 서비스를 사용할 수 있습니다.
+## 여러 PC 가 노트 동기화 하기
 
-예를 들어 다음과 같은 서비스를 사용할 수 있습니다:
+만약 Obsidian 을 모바일 기기에서 사용하지 않는다면, 로컬 폴더를 클라우드 저장소로의 동기화를 위해 다음과 같은 클라우드 서비스를 사용할 수 있습니다.
 
 - Dropbox
 - Google Drive
@@ -18,20 +18,24 @@ Obsidian 을 사용하여 Tistory 글 작성은 두번째 이며, 그동안 작�
 - OneDrive
 - Syncthing
 
-노트를 동기화하려면 사용 중인 서비스의 지침을 따라 로컬 파일 시스템의 폴더를 동기화하고, 그런 다음 모든 데스크톱 기기에서 기존 보트로 폴더를 열면 됩니다.
+노트를 동기화하려면 사용 중인 서비스의 지침을 따라 로컬 파일 시스템의 폴더를 동기화하고, 그런 다음 모든 데스크톱 기기에서 기존 Valut 로 폴더를 열면 됩니다.
 
-iPhone 및 iPad에서 노트 동기화 iPhone 또는 iPad에서 노트를 동기화하기 위해 다음 옵션을 공식으로 지원합니다:
+## 아이폰, 아이패드 와 노트 동기화 하기
 
-- Obsidian Sync
-- iCloud Drive
+iPhone 및 iPad에서 노트 동기화 iPhone 또는 iPad에서 노트를 동기화 하기 위해 다음 클라이드 저장소를 공식적으로 지원합니다:
 
-참고: 다음 서비스는 지원되지 않습니다. 이러한 서비스를 사용하여 iOS 기기에서 노트를 동기화하는 방법을 발견하면 커뮤니티 채널에서 알려주세요.
+- [Obsidian Sync](https://help.obsidian.md/Obsidian+Sync/Introduction+to+Obsidian+Sync)
+- [iCloud Drive](https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices#iCloud%20Drive)
+
+참고: 다음 서비스들을 통한 아이폰, 아이패드와 노트 동기화 지원은 되지 않습니다. 이러한 서비스를 사용하여 iOS 기기에서 노트를 동기화하는 방법을 발견하면 커뮤니티 채널에서 알려주세요.
 
 - Dropbox
 - Google Drive
 - OneDrive
 - Syncthing
 - iCloud Drive
+
+## iCloud Drive
 
 Obsidian은 로컬 파일 시스템으로 iCloud Drive를 사용할 수 있습니다.
 
