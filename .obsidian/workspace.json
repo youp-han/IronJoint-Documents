@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0566422eaec13f47",
+        "id": "2ad4afb843af1e68",
         "type": "tabs",
         "children": [
           {
-            "id": "d5127b132e57a54a",
+            "id": "ffea918022550ab2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tistory/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tistory/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tistory/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tistory/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,10 +140,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d5127b132e57a54a",
+  "active": "ffea918022550ab2",
   "lastOpenFiles": [
-    "Tistory/Obsidian 에서 티스토리로 글 보내기.md",
-    "Tistory/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
+    "Tistory/Steam/무제 파일.md",
+    "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
+    "Tistory/Steam",
+    "Tistory/Obsidian",
+    "Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "Pasted image 20230922144440.png",
     "Pasted image 20230922144404.png",
     "무제 폴더 1",
