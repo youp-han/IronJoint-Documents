@@ -1,3 +1,13 @@
+---
+tistoryBlogName: yobine
+tistoryTitle: Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기
+tistoryTags: "#Obsidian, #옵시디언, #note, #노트, #동기화, #Sync"
+tistoryVisibility: "3"
+tistoryCategory: "1161798"
+tistoryPublished: 2023-09-25T18:04
+tistoryPostId: "595"
+tistoryPostUrl: https://yobine.tistory.com/595
+---
 다음 내용은 Obsidian 의 정식 Help 싸이트 내용을 ChatGPT 로 번역 후 수정된 내용입니다. Help 싸이트: [Sync your notes across devices - Obsidian Help](https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices) 
 
 Obsidian 을 사용하여 Tistory 글 작성은 두번째 이며, 그동안 작성했던 글을, 컴퓨터에만 저장하기 보다는, 외부 클라우드 저장소를 통해 저장하고 불러 들여오고 하면 편할 것 같다는 생각을 하게 되었는데, 마침, 내가 사용하는 PC 외 다른 기기들 (아이폰, 집PC, 회사PC 등) 과 동기화 할 수 있는 방법이 검색되어 해당 내용을 적용해 보며 공유합니다.
@@ -118,3 +128,8 @@ Obsidian은 Android 기기의 로컬 폴더에 노트를 저장하므로, 폴더
 - [FolderSync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite) 
 
 Obsidian은 Documents 폴더 내의 Obsidian 폴더를 생성합니다. Documents/Obsidian 하위의 모든 폴더는 Obsidian Vault로 간주됩니다.
+
+
+> 일부 클라우드 저장소 서비스인 OneDrive와 같은 서비스는 파일을 사용할 때만 다운로드하고 나중에 로컬에서 제거하여 공간을 확보할 수 있게 해줍니다. 이 파일들은 더 이상 로컬에서 사용할 수 없기 때문에 Obsidian Sync는 이 파일들이 삭제된 것으로 간주하고 원격 보트에서 제거합니다. 
+> 
+> Files On-Demand 및 유사한 기능과 함께 Obsidian Sync를 사용하려면 서비스를 구성하여 항상 파일을 장치에 보존하도록 해야 합니다.
