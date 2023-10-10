@@ -11,22 +11,16 @@
             "id": "ffea918022550ab2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f15e883e49554a8c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Tistory/Steam/무제 파일.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tistory/Steam/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tistory/Steam/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tistory/Steam/무제 파일.md"
+              }
             }
           }
         ]
@@ -151,13 +149,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f15e883e49554a8c",
+  "active": "ffea918022550ab2",
   "lastOpenFiles": [
-    "Tistory/Steam/무제 파일.md",
     "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
+    "Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
+    "Tistory/Steam/무제 파일.md",
     "Tistory/Steam",
     "Tistory/Obsidian",
-    "Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "Pasted image 20230922144440.png",
     "Pasted image 20230922144404.png",
     "무제 폴더 1",
