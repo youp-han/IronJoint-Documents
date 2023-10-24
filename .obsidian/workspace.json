@@ -37,9 +37,12 @@
             "id": "841cd71fa0e6a56c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "12일 회의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
