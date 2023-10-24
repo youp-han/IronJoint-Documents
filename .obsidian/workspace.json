@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "841cd71fa0e6a56c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +173,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d1a898acb1731319",
+  "active": "841cd71fa0e6a56c",
   "lastOpenFiles": [
     "Tistory/Steam/무제 파일.md",
     "12일 회의.md",
