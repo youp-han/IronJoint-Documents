@@ -4,36 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "2ad4afb843af1e68",
+        "id": "e920e1a3b58833ec",
         "type": "tabs",
         "children": [
           {
-            "id": "ffea918022550ab2",
+            "id": "f357001c70e56201",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "innople/24일 회의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "841cd71fa0e6a56c",
+            "id": "a1be6d40d17fe074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople/12일 회의.md",
+                "file": "innople/26일 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innople/24일 회의.md",
+                "file": "innople/26일 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innople/24일 회의.md",
+                "file": "innople/26일 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innople/24일 회의.md"
+                "file": "innople/26일 회의.md"
               }
             }
           }
@@ -162,10 +158,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ffea918022550ab2",
+  "active": "e2a8ef450aeb0626",
   "lastOpenFiles": [
-    "innople/12일 회의.md",
+    "innople/26일 회의.md",
     "innople/24일 회의.md",
+    "innople/12일 회의.md",
     "Tistory/Steam/무제 파일.md",
     "innople",
     "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
