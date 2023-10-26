@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f357001c70e56201",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "a1be6d40d17fe074",
             "type": "leaf",
             "state": {
@@ -28,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,12 +65,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f357001c70e56201",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5
   },
   "right": {
     "id": "2e5f8b68d305c10c",
