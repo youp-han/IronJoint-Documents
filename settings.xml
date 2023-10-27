@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 http://maven.apache.org/xsd/settings-1.0.0.xsd">
+
+	<localRepository>/Users/eteeth/.m2/repository/</localRepository>
+
+	<servers>
+		<server>
+			<id>nexus</id>
+			<username>admin</username>
+			<password>itWise1!a</password>
+		</server>
+		<server>
+				<id>snapshots</id>
+				<username>deployment</username>
+				<password>itWise1!a</password>
+		</server>
+		<server>
+			<id>043719378031.dkr.ecr.ap-northeast-2.amazonaws.com</id>
+			<username>AWS</username>
+			<password>eyJwYXlsb2FkIjoidTV4RVNqMWdNWkszWjc0SklXMklEN1UzMUVDOW1xSDVRWjBMaXRqMW9RVGR2NW9wMC9BZm9wV0lrOWhvOWY1bFJrcytOQmJKNmI5ZTVxMTltQTUydGx0T0ttWFBjWWxrL0Y2SitTWnN1VGJuMmxtaFNFd3B4ZmJKQXJjcDg4bDRud3liUm1BTGI0ZkxCQWNyUnBtYXBneGU5eWZjTWFKUWhRZnJzZVBsVTQ3aGdUMkowTkFjNmFIcE9mMndCVXFTTk5RcVFmOXdDREVhSTFFd0FpNjdnaFBmVlJYS1A5Y0NqcVFEVE0yWll6MlFEemc5SkNRMU1kL0hPRDhrdUQ3eUl3YkRwcFUwVEwzUnRyTG93dThaUEJFTUdxeFpOUUhrK3RNb0hWdnpXVFhtMWhiQnNzY1VKWTFyeC95MnYrS0I1TnVlOVV5MTNRWElEbTBuQ2FuYk8zNUVsNTFKYm1DblNvNDBIaGhDYnFLa0MxVzhQRS9RTDBFTjdXSjlFeTFxMXI1QmlBU2p6WHpkQk1DR0hSSThYZ3lGRjA5ZDBPdklVUDlaY1JYZ1ByVGZ0TnJSRll4N0pkQU1CZTZCWjNxTlZ5NXRNUkhFNHBkQmNaZmtaa080YlpWVVhDdTFuRUwzanVvT1JKVERycGJJQzRSN3NJRUlDMlBXb2MxRTZzTVFwOXNDYzdkMkFkYzN0bG8zZDdDL28ySWIwODRDY1hoejlxTkFDQzBYb0t2V3drN1Zka1QvWHI1dXhUZ01Rc3FwdWNmSFluOUtSVlJ0U3ViMjBoTjJmQ0pad2lranA4S0pLZW5HTys0OVlON29BYWc5dzFGVGZOYWRQNkE2Y3VjWEtxVXV4ZEY0SjFkbWxEc05EaDhyQkdqdTM3ZVZ3Q0RQbVgvNEVkNnpzNk5lMnl1TnJqd3VIRkp6RURwOEtNN0NhS05XQkt2NXh0cXEyUzNQcTFrM0tpc0l5SFpFLzdUdE5odE14b0c5dHFIUnordXlKc3JjZ2tEN1l3cnNaVDRYcllGaE5ZWnBJby8wbzUwRm1iSWlnNlFvRWt1bExLczUvOCtUOGdqZy92dW5xT1JRNnNBdzZjTFU0Uk5OLzFaZzNVMFFzNmVvS0tHNnBVVy9tVzNTUmo0MFFlSjk3NEwyQUNOVHR6cGxQZGVpeEYrZjY1ekpzV25jT2lhTmFtcXVod1E4eGpRcFQ2V205U01BNHo5NnBGd0IyK3JBRkpsbHYvR1pjSlprZGlvNUU3bEEzMk12UDVPTXVDN0VOVk96a0E3YnFWSHNoU3BncXAzWFgxeEgyTjNvVWlXcFMyVWtWQTFyZFJHTG1UMEorWHdaZzB0cHJMSm5BN3E1Ukh3MlRvMzA4VWt3YU5UdWk2dWlrKzlzNFRuamVJOWNFUFAvaW1jeTZ1TFBuaU1aT20zamdoTld3UDRTeVNmV2swSWc3dFJoQ1JKNC92T2d2eGoxNlRxV3F4MU9lYnVBMVdBblRheXd5Q2piQ3dJWG5xNWdBV3JqRHNzZDZRPT0iLCJkYXRha2V5IjoiQVFJQkFIaEFPc2FXMmdaTjA5V050TkdrWWM4cXAxMXhTaFovZHJFRW95MUhrOExYV2dGaU5mRUFHVFRWVXB6ZG5Vckc3VVJ0QUFBQWZqQjhCZ2txaGtpRzl3MEJCd2FnYnpCdEFnRUFNR2dHQ1NxR1NJYjNEUUVIQVRBZUJnbGdoa2dCWlFNRUFTNHdFUVFNRzhqOHZmSEJhN2c0NFBFN0FnRVFnRHRuUHdUQnBZaXhkSm9FNVJRbGROS0Y5d3lvdGQya0VoK0lmdWZyTmJLVlNyaGxCYnN1Y3pPUDhOQVZoQTk1dURZdDNqakRVZ29QQS9MOWJ3PT0iLCJ2ZXJzaW9uIjoiMiIsInR5cGUiOiJEQVRBX0tFWSIsImV4cGlyYXRpb24iOjE1NjE0NjkzNDB9</password>
+		</server>
+		<server>
+			<id>central</id>
+		</server>
+	</servers>
+
+	<mirrors>
+		<mirror>
+			<id>nexus</id>
+			<mirrorOf>*,!default,!jitpack.io</mirrorOf>
+			<url>http://10.123.184.235/nexus/content/groups/public</url>
+		</mirror>
+		<mirror>
+			<id>alternate</id>
+			<name>alternate to hortonworks</name>
+			<mirrorOf>*,!central</mirrorOf>
+			<url>https://repo.hortonworks.com/content/repositories/releases/</url>
+		</mirror>
+		<mirror>
+			<id>central</id>
+			<name>central</name>
+			<url>https://repo1.maven.org/maven2/</url>
+			<mirrorOf>maven_central</mirrorOf>
+		</mirror>
+	</mirrors>
+	<profiles>
+		<profile>
+			<id>nexus</id>
+			<!--Enable snapshots for the built in central repo to direct -->
+			<!--all requests to nexus via the mirror -->
+			<repositories>
+				<repository>
+					<id>central</id>
+					<url>https://repo1.maven.org/maven2/</url>
+					<releases>
+						<enabled>true</enabled>
+					</releases>
+					<snapshots>
+						<enabled>true</enabled>
+					</snapshots>
+				</repository>
+			</repositories>
+			<pluginRepositories>
+				<pluginRepository>
+					<id>central</id>
+					<url>https://repo1.maven.org/maven2/</url>
+					<releases>
+						<enabled>true</enabled>
+					</releases>
+					<snapshots>
+						<enabled>true</enabled>
+					</snapshots>
+				</pluginRepository>
+			</pluginRepositories>
+			<properties>
+				<downloadSources>true</downloadSources>
+				<downloadJavadocs>true</downloadJavadocs>
+			</properties>
+		</profile>
+
+		<profile>
+			<id>default</id>
+			<!--Enable snapshots for the built in central repo to direct -->
+			<!--all requests to nexus via the mirror -->
+			<repositories>
+				<repository>
+					<id>default</id>
+					<url>https://repo1.maven.org/maven2/</url>
+					<releases>
+						<enabled>true</enabled>
+					</releases>
+					<snapshots>
+						<enabled>true</enabled>
+					</snapshots>
+				</repository>
+			</repositories>
+			<pluginRepositories>
+				<pluginRepository>
+					<id>default</id>
+					<url>https://repo1.maven.org/maven2/</url>
+					<releases>
+						<enabled>true</enabled>
+					</releases>
+					<snapshots>
+						<enabled>true</enabled>
+					</snapshots>
+				</pluginRepository>
+			</pluginRepositories>
+			<properties>
+				<downloadSources>true</downloadSources>
+				<downloadJavadocs>true</downloadJavadocs>
+			</properties>
+		</profile>
+		<profile>
+			<id>jitpack</id>
+			<repositories>
+				<repository>
+					<id>jitpack.io</id>
+					<url>https://jitpack.io</url>
+				</repository>
+			</repositories>
+		</profile>
+	</profiles>
+	<activeProfiles>
+		<!--make the profile active all the time -->
+		<activeProfile>nexus</activeProfile>
+	</activeProfiles>
+</settings>

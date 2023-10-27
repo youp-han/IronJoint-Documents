@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople/26일 회의.md",
+                "file": "innople/innoFrame.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innople/26일 회의.md",
+                "file": "innople/innoFrame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innople/26일 회의.md",
+                "file": "innople/innoFrame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innople/26일 회의.md"
+                "file": "innople/innoFrame.md"
               }
             }
           }
@@ -172,14 +172,17 @@
   },
   "active": "a1be6d40d17fe074",
   "lastOpenFiles": [
+    "settings.xml",
+    "innople/innolink 개발 환경.md",
+    "innople/innoFrame.md",
     "innople/innolink To-Do list.md",
+    "innople/12일 회의.md",
     "innople/26일 회의.md",
     "innople/24일 회의.md",
     "Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "Pasted image 20230922144404.png",
     "Pasted image 20230922144440.png",
-    "innople/12일 회의.md",
     "Tistory/Steam/무제 파일.md",
     "innople",
     "Tistory/Steam",
