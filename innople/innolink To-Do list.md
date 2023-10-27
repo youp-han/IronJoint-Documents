@@ -6,17 +6,18 @@
 - [x] git 생성 완료 GIT : http://svn.elandsystems.com:8090/scm/git/2023/INNOLINK-API ✅ 2023-10-27
 - [x] project 생성 : 명칭 innolink-api ✅ 2023-10-27
 
-- [ ] base Entity -> enable (true, false), true default 
-	1. 삭제 시 enable->false
-	2. 조회 시 조건, enable-= true 인것만
-	3. 업데이트 시 enable=true 인것만 
-	4. (수정 보류 - 도급시 필요)
 
 - [ ] Inno-Frame 작업
-	1. errordegtail => status->error
-	2. data field 삭제
-	3. 배포 : C:\Users\han.sungyoup01\.m2\settings.xml 확인 후 admin 추가.
-	4. 이메일로 명령어 전달 받음.
+	 - [ ] ResponseEntity 내용 수정
+		1. errordegtail => status->error
+		2. data field 삭제
+	- [ ] base Entity -> enable (true, false), true default 
+		1. 삭제 시 enable->false
+		2. 조회 시 조건, enable-= true 인것만
+		3. 업데이트 시 enable=true 인것만 
+		4. (수정 보류 - 도급시 필요)
+	- [ ] 배포 : C:\Users\han.sungyoup01\.m2\settings.xml 확인 후 admin 추가.
+		1. 이메일로 명령어 전달 받음.
 
 - [ ]  Innolink-API 작업
 	1. custom user - api
