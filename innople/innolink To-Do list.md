@@ -8,9 +8,10 @@
 
 
 - [ ] Inno-Frame 작업
-	 - [ ] ResponseEntity 내용 수정
+	 - [x] ResponseEntity 내용 수정 ✅ 2023-10-30
 		1. errordegtail => status->error
 		2. data field 삭제
+		3. GlobalExceptionHandler 수정 (errorDetail 설정 하는 부분)
 	- [ ] base Entity -> enable (true, false), true default 
 		1. 삭제 시 enable->false
 		2. 조회 시 조건, enable-= true 인것만
