@@ -38,3 +38,4 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 	2. 서비스 링크: [로그인 [Jenkins]](http://krvaissodev03:8090/login?from=%2F)
 	3. 
 
+[SpringBoot JPA 예제(@OneToMany, 단방향) :: JDM's Blog](https://jdm.kr/blog/141)
