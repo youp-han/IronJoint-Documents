@@ -1,0 +1,50 @@
+REQUEST (from Gaia)
+{.
+  status: ok,
+  data: [
+    {
+      id: null,
+      name: "한승엽",
+      ...,
+<-- alter -->
+      buCode: "0000", 
+      startDate: "2023-10-30",
+<-- best -->
+      attributes: [ 
+        {
+          name: "buCode",
+          value: "0000"
+        },
+        {
+          name: "startDate",
+          value: "2023-10-30"
+        },
+      ]
+  ],
+  count: 100
+}
+RESULT (to Gaia)
+{
+  data: {
+    success: [
+      { 
+        employeeId: "100404040",
+        id: uuid
+      },
+      {
+   ....
+       }
+    ],
+    fail: [
+        { 
+        employeeId: "100404040",
+        error: "GroupNotFound"
+      },
+      {
+   ....
+       }
+    ],
+    successCount: 50,
+    failCount: 50 
+  }
+}

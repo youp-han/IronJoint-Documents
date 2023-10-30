@@ -23,3 +23,5 @@
 	1. custom user - api
 		1. custom_user, custom_attribute, custom_group 에 저장.
 		2. 저장 시 결과 노출 (성공 리스트 및 실패 리스트)
+		3. ![[group-data-form（案例）.txt]]![[user-data-form（案例）.txt]]
+		4. ![[example_json.txt]]

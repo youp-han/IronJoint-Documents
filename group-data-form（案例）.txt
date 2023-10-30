@@ -1,0 +1,28 @@
+Detail: groups data
+Usage: group data add, update, delete
+Data set: json list
+type: post
+
+[
+	{
+		"groupCode" : "101",
+		"name" : "中国 衣恋 共同",
+		"level" : 3,
+		"created" : "2021-04-18 15:27:40",
+		"modified" : "2023-10-24 03:00:30",
+	}
+	{
+		"groupCode" : "102003007",
+		"name" : "中国 流通 PB THERE'S",
+		"level" : 5,
+		"created" : "2021-04-18 15:27:24",
+		"modified" : "2023-10-24 03:00:30",
+	}
+	{
+		"groupCode" : "102007004001006",
+		"name" : "中国 流通 成都2号店 行政部",
+		"level" : 7,
+		"created" : "2023-05-04 16:54:22",
+		"modified" : "2023-10-24 03:00:30",
+	}
+]
