@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-31 회의.md",
+                "file": "innople/26일 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-31 회의.md",
+                "file": "innople/26일 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-31 회의.md",
+                "file": "innople/26일 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-31 회의.md"
+                "file": "innople/26일 회의.md"
               }
             }
           }
@@ -180,6 +180,7 @@
   },
   "active": "7f901f66c5a0752c",
   "lastOpenFiles": [
+    "innople/12일 회의.md",
     "10-31 회의.md",
     "innople/26일 회의.md",
     "innople/innolink 개발 정보.md",
@@ -191,7 +192,6 @@
     "innople/DB SQL.md",
     "innople/24일 회의.md",
     "settings.xml",
-    "innople/12일 회의.md",
     "Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "Pasted image 20230922144404.png",
