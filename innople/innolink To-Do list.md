@@ -7,7 +7,7 @@
 - [x] project 생성 : 명칭 innolink-api ✅ 2023-10-27
 
 
-- [ ] Inno-Frame 작업
+- [x] Inno-Frame 작업 ✅ 2023-10-31
 	 - [x] ResponseEntity 내용 수정 ✅ 2023-10-30
 		1. errordegtail => status->error
 		2. data field 삭제
