@@ -13,14 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople/innolink 개발 정보.md",
+                "file": "innople/26일 회의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fa68f10d55dcfb3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f901f66c5a0752c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-31 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innople/innolink 개발 정보.md",
+                "file": "10-31 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innople/innolink 개발 정보.md",
+                "file": "10-31 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innople/innolink 개발 정보.md"
+                "file": "10-31 회의.md"
               }
             }
           }
@@ -156,17 +178,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "25e5ac261712c314",
+  "active": "7f901f66c5a0752c",
   "lastOpenFiles": [
+    "10-31 회의.md",
+    "innople/26일 회의.md",
+    "innople/innolink 개발 정보.md",
     "innople/innolink To-Do list.md",
     "innople/innoFrame nexus 배포.md",
-    "innople/innolink 개발 정보.md",
     "example_json.txt",
     "user-data-form（案例）.txt",
     "group-data-form（案例）.txt",
     "innople/DB SQL.md",
     "innople/24일 회의.md",
-    "innople/26일 회의.md",
     "settings.xml",
     "innople/12일 회의.md",
     "Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
