@@ -17,7 +17,7 @@
 		2. 조회 시 조건, enable-= true 인것만
 		3. 업데이트 시 enable=true 인것만 
 		4. (수정 보류 - 도급시 필요)
-	- [ ] 배포 : C:\Users\han.sungyoup01\.m2\settings.xml 확인 후 admin 추가.
+	- [x] 배포 : C:\Users\han.sungyoup01\.m2\settings.xml 확인 후 admin 추가. ✅ 2023-10-31
 		1. 이메일로 명령어 전달 받음.
 
 - [ ]  Innolink-API 작업
