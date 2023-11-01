@@ -1,13 +1,4 @@
-Detail: users data
-Usage: user data add, update, delete
-Data set: json list
-Type: post
-Required value:  id, groupCode, createdDate, modifiedDate, firstName, lastName, employeeId, loginId
-
 [
-
-/*---------------------------------字段说明-------------------------------*/
-
 	{
 		"groupCode" : "组织代码",
 		"groupName" : "组织名称",
@@ -57,14 +48,9 @@ Required value:  id, groupCode, createdDate, modifiedDate, firstName, lastName, 
 			"cmpName" : "公司名称" , 
 			"empCode" : "员工类型代码" , 
 			"empName" : "员工类型名称" 
-		},
-	}
+		}
+	},
 
-
-
-
-
-/*-------------------------案例---------------------------------*/
 
 	{
 		"groupCode" : "104002002005001",
@@ -115,8 +101,8 @@ Required value:  id, groupCode, createdDate, modifiedDate, firstName, lastName, 
 			"cmpName" : "宇旭贸易（上海）有限公司" , 
 			"empCode" : "e_emp_T108" , 
 			"empName" : "管理人员" 
-		},
-	}
+		}
+	},
 	
 
    {
@@ -168,8 +154,8 @@ Required value:  id, groupCode, createdDate, modifiedDate, firstName, lastName, 
 			"cmpName" : "宇旭贸易（上海）有限公司" , 
 			"empCode" : "e_emp_T108" , 
 			"empName" : "管理人员" 
-		},
-	}
+		}
+	},
 
    {
 		"groupCode" : "104002002005001",
@@ -220,6 +206,6 @@ Required value:  id, groupCode, createdDate, modifiedDate, firstName, lastName, 
 			"cmpName" : "宇旭贸易（上海）有限公司" , 
 			"empCode" : "e_emp_T108" , 
 			"empName" : "管理人员" 
-		},
+		}
 	}
 ]
