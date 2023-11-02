@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25e5ac261712c314",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "innople/26일 회의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9fa68f10d55dcfb3",
             "type": "leaf",
             "state": {
@@ -32,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f901f66c5a0752c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "innople/26일 회의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,11 +158,11 @@
   },
   "active": "9fa68f10d55dcfb3",
   "lastOpenFiles": [
+    "innople/26일 회의.md",
+    "innople/10-31 회의.md",
     "innople/innolink To-Do list.md",
     "innople/innolink 개발 정보.md",
     "innople/24일 회의.md",
-    "innople/26일 회의.md",
-    "innople/10-31 회의.md",
     "innople/DB SQL.md",
     "innople/12일 회의.md",
     "innople/innoFrame nexus 배포.md",
