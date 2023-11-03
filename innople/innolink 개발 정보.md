@@ -40,16 +40,3 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 
 [SpringBoot JPA 예제(@OneToMany, 단방향) :: JDM's Blog](https://jdm.kr/blog/141)
 
-krvaissodev02 서버 배포 설정
-id: jenkins 
-password: deploy+123 
-
-
-계정, username, email 이 없는경우 신입사원.
-신입사원 확인. (여부) 
-- 사번 확인. 
-- - 사번 중복인 경우, (오류) 이미 등록된 user ${username} 입니다.
-- - 사번이 없는경우 : 신입사원 진행
-- 만드는 방법
-- - lastname+"_" + firstname.
-- 중복 확인 후 중복인 경우 넘버링 추가.
