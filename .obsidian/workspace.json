@@ -13,14 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople/10-31 회의.md",
+                "file": "innople/innolink 개발 정보.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42f393d0645726ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5ccd8d7bf67424e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innople/10-31 회의.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innople/10-31 회의.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innople/10-31 회의.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -156,12 +178,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9fa68f10d55dcfb3",
+  "active": "f5ccd8d7bf67424e",
   "lastOpenFiles": [
-    "innople/26일 회의.md",
-    "innople/10-31 회의.md",
-    "innople/innolink To-Do list.md",
+    "무제 파일.md",
     "innople/innolink 개발 정보.md",
+    "innople/10-31 회의.md",
+    "innople/26일 회의.md",
+    "innople/innolink To-Do list.md",
     "innople/24일 회의.md",
     "innople/DB SQL.md",
     "innople/12일 회의.md",
