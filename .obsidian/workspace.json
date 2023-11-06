@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMS.md",
+                "file": "SMS API 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMS.md",
+                "file": "SMS API 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMS.md",
+                "file": "SMS API 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMS.md"
+                "file": "SMS API 만들기.md"
               }
             }
           }
@@ -173,7 +173,7 @@
   },
   "active": "07ef756c31d903fb",
   "lastOpenFiles": [
-    "SMS.md",
+    "SMS API 만들기.md",
     "innople/11-3 회의.md",
     "innople/10-26일 회의.md",
     "innople/10-24일 회의.md",
