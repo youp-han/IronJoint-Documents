@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07ef756c31d903fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SMS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innople/11-3 회의.md",
+                "file": "SMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innople/11-3 회의.md",
+                "file": "SMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innople/11-3 회의.md"
+                "file": "SMS.md"
               }
             }
           }
@@ -156,12 +171,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9fa68f10d55dcfb3",
+  "active": "07ef756c31d903fb",
   "lastOpenFiles": [
+    "SMS.md",
+    "innople/11-3 회의.md",
     "innople/10-26일 회의.md",
     "innople/10-24일 회의.md",
     "innople/10-12일 회의.md",
-    "innople/11-3 회의.md",
     "innople/innoFrame nexus 배포.md",
     "innople/innolink 개발 정보.md",
     "innople/innolink To-Do list.md",
