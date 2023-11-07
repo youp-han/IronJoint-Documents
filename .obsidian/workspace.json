@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople/11-3 회의.md",
+                "file": "innople/10-26일 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SMS API 만들기.md",
+                "file": "innople/10-26일 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SMS API 만들기.md",
+                "file": "innople/10-26일 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SMS API 만들기.md"
+                "file": "innople/10-26일 회의.md"
               }
             }
           }
@@ -171,10 +169,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "07ef756c31d903fb",
+  "active": "9fa68f10d55dcfb3",
   "lastOpenFiles": [
-    "SMS API 만들기.md",
+    "innople/10-31 회의.md",
     "innople/11-3 회의.md",
+    "SMS API 만들기.md",
     "innople/10-26일 회의.md",
     "innople/10-24일 회의.md",
     "innople/10-12일 회의.md",
@@ -182,7 +181,6 @@
     "innople/innolink 개발 정보.md",
     "innople/innolink To-Do list.md",
     "무제 파일.md",
-    "innople/10-31 회의.md",
     "innople/DB SQL.md",
     "example_json.txt",
     "user-data-form（案例）.txt",
