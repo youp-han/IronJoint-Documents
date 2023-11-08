@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "api= tables.md",
+                "file": "innople/DB SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "api= tables.md",
+                "file": "innople/DB SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "api= tables.md"
+                "file": "innople/DB SQL.md"
               }
             }
           }
@@ -183,20 +182,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "395c48b7b6e7fbdc",
+  "active": "e2a8ef450aeb0626",
   "lastOpenFiles": [
-    "innople/DB SQL.md",
+    "SMS API 만들기.md",
+    "무제 파일.md",
     "api= tables.md",
     "innople/11-3 회의.md",
+    "innople/DB SQL.md",
     "innople/10-26일 회의.md",
     "innople/10-31 회의.md",
-    "SMS API 만들기.md",
     "innople/10-24일 회의.md",
     "innople/10-12일 회의.md",
     "innople/innoFrame nexus 배포.md",
     "innople/innolink 개발 정보.md",
     "innople/innolink To-Do list.md",
-    "무제 파일.md",
     "example_json.txt",
     "user-data-form（案例）.txt",
     "group-data-form（案例）.txt",
