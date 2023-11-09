@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople/DB SQL.md",
+                "file": "innople/11-3 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,14 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMS API 만들기.md",
+                "file": "innople/SMS API 만들기.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "909397c4d56758f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "customuser.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -120,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innople/DB SQL.md",
+                "file": "customuser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innople/DB SQL.md",
+                "file": "customuser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innople/DB SQL.md"
+                "file": "customuser.md"
               }
             }
           }
@@ -182,13 +197,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e2a8ef450aeb0626",
+  "active": "909397c4d56758f4",
   "lastOpenFiles": [
-    "SMS API 만들기.md",
-    "무제 파일.md",
+    "customuser.md",
+    "innople/SMS API 만들기.md",
     "api= tables.md",
     "innople/11-3 회의.md",
     "innople/DB SQL.md",
+    "무제 파일.md",
     "innople/10-26일 회의.md",
     "innople/10-31 회의.md",
     "innople/10-24일 회의.md",
