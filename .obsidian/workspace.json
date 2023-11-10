@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fa68f10d55dcfb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "innople/11-3 회의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "395c48b7b6e7fbdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "innople/api= tables.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "07ef756c31d903fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople/innolink To-Do list.md",
+                "file": "innople/customuser.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innople/10-31 회의.md",
+                "file": "innople/customuser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innople/10-31 회의.md",
+                "file": "innople/customuser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innople/10-31 회의.md"
+                "file": "innople/customuser.md"
               }
             }
           }
@@ -183,56 +156,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "2940c79fdea48a05",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9e48049863a6af31",
-        "type": "window",
-        "children": [
-          {
-            "id": "ed1eccbd8facd753",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "909397c4d56758f4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "innople/10-31 회의.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1015,
-        "y": 1462,
-        "width": 1158,
-        "height": 892,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "909397c4d56758f4",
+  "active": "07ef756c31d903fb",
   "lastOpenFiles": [
-    "innople/innolink To-Do list.md",
+    "innople/DB SQL.md",
+    "innople/11-3 회의.md",
+    "innople/api= tables.md",
     "innople/customuser.md",
-    "innople/SMS API 만들기.md",
+    "innople/innolink To-Do list.md",
     "innople/10-31 회의.md",
+    "innople/SMS API 만들기.md",
     "innople/Jenkins Setting.md",
     "innople/innolink 개발 정보.md",
     "innople/innoFrame nexus 배포.md",
-    "innople/DB SQL.md",
-    "innople/api= tables.md",
-    "innople/11-3 회의.md",
     "innople/10-26일 회의.md",
     "innople/10-24일 회의.md",
     "innople/10-12일 회의.md",
