@@ -1,3 +1,7 @@
+krvaissodev02 서버 배포 설정
+id: jenkins 
+password: deploy+123 
+
 pipeline {
     agent any
 
