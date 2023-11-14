@@ -1,6 +1,6 @@
 1. Group
 	1. parent_group_code
-	2. level x
+	2. level x -> 버릴 예정
 2. User
 	1. 신규가입 email 생성 어떻게 하는지 확인
 

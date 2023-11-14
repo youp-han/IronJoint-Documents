@@ -9,7 +9,12 @@
 forgot password:
 keycloak 화면에서 forgot password 클릭-> api 호출 -> api 에서 sms 전송 -> 인증번호를 forgot password 화면에 입력 -> api 호출, -> 인증번호가 맞으면, 저장했던 링크 화면에 전송.
 
-email, mobile, sms 화면
+email, mobile, sms 화면을 만든다.
+
+모바일:...
+이메일...
+인증문자...
+확인 클릭 시 return uri 로 돌린다.
 
 1. get/username -> username 과 redirect uri
 -> 인증문자를 phone no 보내준다.
