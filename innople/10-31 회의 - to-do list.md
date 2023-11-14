@@ -56,8 +56,8 @@ mobile, exemail (이메일 형태) 은 필수값. -> 연락처 오류
 birthday, hireddate 필수
 persg -> 필수 숫자.
 createdDate 필수
-firstName + lastName = name 으로 추가
-name 이 없으면 : 이름 오류
+
+firstName, lastName 둘다  없으면 : 이름 오류
 
 
 
