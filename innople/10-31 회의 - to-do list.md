@@ -50,6 +50,7 @@ Custom user 테스트 케이스
     3. 한승 동명이인 입사처리: 한승01로 생성
 
 
+필수값. 
 GroupCode 없으면 "부서코드 없음" 오류.
 employeeId 는 무조껀 숫자. -> 사원코드 오류
 mobile, exemail (이메일 형태) 은 필수값. -> 연락처 오류
