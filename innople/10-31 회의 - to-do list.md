@@ -66,10 +66,10 @@ Custom user 테스트 케이스
 		- [x] 중복 확인 후 중복인  경우 넘버링 추가. (코드 수정. regularexpression 으로 넘버링 확인) ✅ 2023-11-11
 		- [ ] 테스트) input: 한승, -> db data: 한승엽
 
-drop table CUSTOM_USER_ATTRIBUTE;
-drop table CUSTOM_USER;
+delete from CUSTOM_USER_ATTRIBUTE;
+delete from  CUSTOM_USER;
 
-drop table CUSTOM_GROUP ;
+delete from CUSTOM_GROUP ;
 
 
 

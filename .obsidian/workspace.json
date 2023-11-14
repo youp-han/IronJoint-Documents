@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11월 14일 회의.md",
+                "file": "innople/innolink To-Do list.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11월 14일 회의.md",
+                "file": "innople/10-31 회의 - to-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11월 14일 회의.md",
+                "file": "innople/10-31 회의 - to-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11월 14일 회의.md"
+                "file": "innople/10-31 회의 - to-do list.md"
               }
             }
           }
@@ -170,22 +171,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0ea55740132d4c61",
+  "active": "cbee2ac51c8d576b",
   "lastOpenFiles": [
-    "innople/10-31 회의 - to-do list.md",
-    "11월 14일 회의.md",
-    "innople/11-3 회의.md",
     "innople/innolink To-Do list.md",
-    "innople/api= tables.md",
-    "innople/customuser.md",
-    "innople/DB SQL.md",
-    "innople/innoFrame nexus 배포.md",
     "innople/innolink 개발 정보.md",
+    "innople/innoFrame nexus 배포.md",
+    "innople/DB SQL.md",
+    "innople/10-12일 회의.md",
+    "innople/10-24일 회의.md",
+    "innople/10-26일 회의.md",
+    "innople/10-31 회의 - to-do list.md",
+    "innople/api= tables.md",
+    "innople/11월 14일 회의.md",
+    "innople/11-3 회의.md",
+    "innople/customuser.md",
     "innople/Jenkins Setting.md",
     "innople/SMS API 만들기.md",
-    "innople/10-12일 회의.md",
-    "innople/10-26일 회의.md",
-    "innople/10-24일 회의.md",
     "example_json.txt",
     "user-data-form（案例）.txt",
     "group-data-form（案例）.txt",
