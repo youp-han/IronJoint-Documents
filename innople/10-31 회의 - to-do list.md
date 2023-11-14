@@ -48,7 +48,20 @@ Custom user 테스트 케이스
     1. 한승엽 - 기존 데이터
     2. 한승 으로 입사처리: 한승 으로 생성
     3. 한승 동명이인 입사처리: 한승01로 생성
-    
+
+
+GroupCode 없으면 "부서코드 없음" 오류.
+employeeId 는 무조껀 숫자. -> 사원코드 오류
+mobile, exemail (이메일 형태) 은 필수값. -> 연락처 오류
+birthday, hireddate 필수
+persg -> 필수 숫자.
+createdDate 필수
+firstName + lastName = name 으로 추가
+name 이 없으면 : 이름 오류
+
+
+
+
 - 중복 데이터 점검:
 - [ ] 1. 보내준 데이터에는 employeeId 이 존재 하고, 검색한 테이블에 해당 사번의 custom user 존재, 보내준 데이터에는 username 없음 → 사번 중복 오류 (동일 사번으로 계정 생성할 수 없음)
  - [ ] 2. employeeId 과 username 이 같으면 update 처리
