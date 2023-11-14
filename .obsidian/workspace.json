@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople/innolink To-Do list.md",
+                "file": "innople/11월 14일 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople/11월 14일 회의.md",
+                "file": "innople/SMS API 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,11 +170,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "cbee2ac51c8d576b",
+  "active": "0ea55740132d4c61",
   "lastOpenFiles": [
-    "innople/SMS API 만들기.md",
-    "innople/10-31 회의 - to-do list.md",
     "innople/innolink To-Do list.md",
+    "innople/SMS API 만들기.md",
+    "innople/11월 14일 회의.md",
+    "innople/10-31 회의 - to-do list.md",
     "innople/innolink 개발 정보.md",
     "innople/innoFrame nexus 배포.md",
     "innople/DB SQL.md",
@@ -183,7 +183,6 @@
     "innople/10-24일 회의.md",
     "innople/10-26일 회의.md",
     "innople/api= tables.md",
-    "innople/11월 14일 회의.md",
     "innople/11-3 회의.md",
     "innople/customuser.md",
     "innople/Jenkins Setting.md",
