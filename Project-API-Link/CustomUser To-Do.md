@@ -21,7 +21,7 @@ GetAll 시
 
 **1. CustomUser 등록
 
-- [ ] 필수 값 확인
+- [ ] CustomUser 등록
 	1. employeeId 부재시 오류, 숫자가 아니면 오류
 	2. GroupCode 부재 시 오류
 	3. mobile, exemail (이메일 형태) 은 필수값. -> 연락처 오류
@@ -29,7 +29,19 @@ GetAll 시
 	5. persg -> 필수 숫자.
 	6. createdDate 필수
 	7. firstName, lastName 둘다  없으면 : 이름 오류
-	8.
+	8. employeeId 를 이용하여 중복 데이터 확인
+		1. 없으면 저장
+		2. 신규 계정 확인
+			1. userName, email 확인. 없으면 신규 계정
+			2. 신규 계정 시 userName 생셩
+				1. 정직원 (88888888)
+					1.  lastName_firstName
+				2. 지사스텝 (11111111)
+					1. lastName.firstName
+				3. 신소매 (5555555555)
+					1. lastName.firstName
+				4. SPA 직원(9999999999)
+					1. shop-employeeId
 
 - 테스트 데이터 저장 
 - 등록 결과 회신 데이터 확인: 성공/실패 데이터 리스트 회신
