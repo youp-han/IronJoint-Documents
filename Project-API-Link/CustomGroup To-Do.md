@@ -10,8 +10,19 @@
 - http://localhost:8080/api/group
 1. GroupCode 부재 시 오류
 2. GroupName 부재 시 오류
-3. GroupCode 존재 확인
- 1. Group name check
+3. ParentGroupCode 부재 시 오류
+4. GroupCode 존재 확인
+	1. 쿼리결과, GroupCode 존재 시 업데이트
+		1. realmId, groupCode 확인
+			1. 업데이트 할 groupName 확인
+			2. parentGroupCode 업데이트
+			3. name 업데이트
+	2. 쿼리결과, GroupCode 미 존재 시 추가
+		1. reamId 추가
+		2. eabled = true
+		3. name 업데이트
+		
+- [ ] 2, Group name check
 	 1. 그룹명 양옆 공백제거 
 	 2. new 그룹 데이터와 기존 그룹 간 같은 그룹명이 존재하면 안됨. 
 	 3. 그룹명 중복시 01, 02... 넘버링 하여 그룹명 뒤에 append 
