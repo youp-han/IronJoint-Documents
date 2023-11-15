@@ -1,6 +1,55 @@
-	1. 신규가입 email 생성 어떻게 하는지 확인
+
+**1. CustomUser 등록
+
+- [x] CustomUser 등록 ✅ 2023-11-15
+- http://localhost:8080/api/customuser
+1. employeeId 부재시 오류, 숫자가 아니면 오류
+2. GroupCode 부재 시 오류
+3. mobile, exemail (이메일 형태) 은 필수값. -> 연락처 오류
+4. birthday, hireddate 필수
+5. persg -> 필수 숫자.
+6. createdDate 필수
+7. firstName, lastName 둘다  없으면 : 이름 오류
+8.  오류계정
+		1. employeeId 가 중복 아님
+		2. exeMail 정보로 검색된 email 을 가진 결과가 있는경우
+			- new data 의 exemail == oldata 의  email 인경우 (오류처리)
+		3. "중복오류"
+9. employeeId 를 이용하여 중복 데이터 확인
+	1.  **없으면 저장
+		1. 신규 계정 확인
+			1. userName, email 확인. 없으면 신규 계정
+			2. 신규 계정 시 userName 생셩
+				1. 정직원 (88888888)
+					1.  lastName_firstName
+				2. 지사스텝 (11111111)
+					1. lastName.firstName
+				3. 신소매 (5555555555)
+					1. lastName.firstName
+				4. SPA 직원(9999999999)
+					1. shop-employeeId
+		2. userName unique 확인
+		3. createUser 추가
+	2. **있으면 업데이트
+		1. userName 이 없으면 오류
+			1. 사번 중복 오류
+		2. userName 이 중복된 사번의 userName 과 같으면 오류
+			1. 계정명 변경 불가 오류
+		3. modifiedUser 추가
+			
+**2. CustomUser 삭제	
+
+- [x] CustomUser 삭제 ✅ 2023-11-15
+- - http://localhost:8080/api/customuser/list
+전체 업데이트 시 저장은 1번과 동일
+1. 저장 진행 완료 후, 삭제 대상 존재 여부 검색
+	1. 삭제 대상이 있는 경우
+		1. 저장된 리스트 에서 isEnabled = true 인 데이터만 리스트 만들고
+		2. 저장 대상 리스트 와 비교하여 삭제 리스트 생성
+		3. 삭제 진행
 
 
+1. 신규가입 email 생성 어떻게 하는지 확인
 
 modifiedUser 추가
 realm  데이터 넣기
@@ -19,35 +68,8 @@ GetAll 시
 - [x] create_user 컬럼은 어디에서 만들어졌는지 판단하기 위한 정보성 컬럼(KEYCLOAK, NEWIAM, GAIYA) ✅ 2023-11-10 sysetm account
 
 
-**1. CustomUser 등록
 
-- [ ] CustomUser 등록
-	1. employeeId 부재시 오류, 숫자가 아니면 오류
-	2. GroupCode 부재 시 오류
-	3. mobile, exemail (이메일 형태) 은 필수값. -> 연락처 오류
-	4. birthday, hireddate 필수
-	5. persg -> 필수 숫자.
-	6. createdDate 필수
-	7. firstName, lastName 둘다  없으면 : 이름 오류
-	8.  오류계정
-			1. employeeId 가 중복 아님
-			2. exeMail 정보로 검색된 email 을 가진 결과가 있는경우
-			    - new data 의 exemail == oldata 의  email 인경우 (오류처리)
-			3. "중복오류"
-	9. employeeId 를 이용하여 중복 데이터 확인
-		1. 없으면 저장
-		2. 신규 계정 확인
-			1. userName, email 확인. 없으면 신규 계정
-			2. 신규 계정 시 userName 생셩
-				1. 정직원 (88888888)
-					1.  lastName_firstName
-				2. 지사스텝 (11111111)
-					1. lastName.firstName
-				3. 신소매 (5555555555)
-					1. lastName.firstName
-				4. SPA 직원(9999999999)
-					1. shop-employeeId
-		3.
+
 
 - 테스트 데이터 저장 
 - 등록 결과 회신 데이터 확인: 성공/실패 데이터 리스트 회신

@@ -8,6 +8,7 @@
 
 - [x] 1. Group request 저장 ✅ 2023-11-15
 - http://localhost:8080/api/group
+- - http://localhost:8080/api/group/list
 1. 테이블 내 group_code 컬럼을 key값으로 비교 
 2. groupCode 부재 시 오류
 3. groupName 부재 시 오류
