@@ -29,7 +29,12 @@ GetAll 시
 	5. persg -> 필수 숫자.
 	6. createdDate 필수
 	7. firstName, lastName 둘다  없으면 : 이름 오류
-	8. employeeId 를 이용하여 중복 데이터 확인
+	8.  오류계정
+			1. employeeId 가 중복 아님
+			2. exeMail 정보로 검색된 email 을 가진 결과가 있는경우
+			    - new data 의 exemail == oldata 의  email 인경우 (오류처리)
+			3. "중복오류"
+	9. employeeId 를 이용하여 중복 데이터 확인
 		1. 없으면 저장
 		2. 신규 계정 확인
 			1. userName, email 확인. 없으면 신규 계정
@@ -42,11 +47,7 @@ GetAll 시
 					1. lastName.firstName
 				4. SPA 직원(9999999999)
 					1. shop-employeeId
-		3. 오류계정
-			1. employeeId 가 중복 아님
-			2. exeMail 정보로 검색된 email 을 가진 결과가 있는경우
-				1. - new data 의 exemail == oldata 의  email 인경우 (오류처리)
-			3. "중복오류"
+		3.
 
 - 테스트 데이터 저장 
 - 등록 결과 회신 데이터 확인: 성공/실패 데이터 리스트 회신
