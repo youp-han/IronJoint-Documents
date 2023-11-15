@@ -19,22 +19,16 @@ GetAll 시
 - [x] create_user 컬럼은 어디에서 만들어졌는지 판단하기 위한 정보성 컬럼(KEYCLOAK, NEWIAM, GAIYA) ✅ 2023-11-10 sysetm account
 
 
-- [ ] Custom group 등록
+**1. CustomUser 등록
 
-필수값. 
-GroupCode 없으면 "부서코드 없음" 오류.
-employeeId 는 무조껀 숫자. -> 사원코드 오류
-mobile, exemail (이메일 형태) 은 필수값. -> 연락처 오류
-birthday, hireddate 필수
-persg -> 필수 숫자.
-createdDate 필수
-
-firstName, lastName 둘다  없으면 : 이름 오류
-
-
-1. 필수 값 확인
+- [ ] 필수 값 확인
 	1. employeeId 부재시 오류, 숫자가 아니면 오류
 	2. GroupCode 부재 시 오류
+	3. mobile, exemail (이메일 형태) 은 필수값. -> 연락처 오류
+	4. birthday, hireddate 필수
+	5. persg -> 필수 숫자.
+	6. createdDate 필수
+	7. firstName, lastName 둘다  없으면 : 이름 오류
 
 - 테스트 데이터 저장 확인
 - 등록 결과 회신 데이터 확인: 성공/실패 데이터 리스트 회신
