@@ -235,14 +235,6 @@
                 }
               },
               {
-                "id": "abcb136562636739",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
                 "id": "36d69aed3d095839",
                 "type": "leaf",
                 "state": {
@@ -260,9 +252,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 1233,
+        "x": 1277,
         "y": 495,
-        "width": 1373,
+        "width": 1329,
         "height": 879,
         "maximize": false,
         "zoom": 0
@@ -271,11 +263,11 @@
   },
   "active": "c42d1cdcff4c7b88",
   "lastOpenFiles": [
-    "Project-API-Link/CustomUser To-Do.md",
+    "Project-API-Link/TEST.md",
     "Project-API-Link/CustomGroup To-Do.md",
+    "Project-API-Link/CustomUser To-Do.md",
     "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "Project-API-Link/개발-Todo.md",
-    "Project-API-Link/TEST.md",
     "Pasted image 20230922144404.png",
     "Project-API-Link/환경 To-do.md",
     "innople 회의/11월 14일 회의.md",

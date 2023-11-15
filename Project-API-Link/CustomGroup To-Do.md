@@ -21,8 +21,17 @@
 		1. reamId 추가
 		2. eabled = true
 		3. name 업데이트
+
+- [ ] 2. Group request 삭제 (전체 업데이트 시)
+- http://localhost:8080/api/group/list
+1. 전체 업데이트 시 저장은 1번과 동일
+2. 저장 진행 완료 후, 삭제 대상 존재 여부 검색
+	1. 삭제 대상이 있는 경우
+		1. 저장된 리스트 에서 isEnabled = true 인 데이터만 리스트 만들고
+		2. 저장 대상 리스트
+
 		
-- [ ] 2, Group name check
+- [ ] 3, Group name check
 	 1. 그룹명 양옆 공백제거 
 	 2. new 그룹 데이터와 기존 그룹 간 같은 그룹명이 존재하면 안됨. 
 	 3. 그룹명 중복시 01, 02... 넘버링 하여 그룹명 뒤에 append 
