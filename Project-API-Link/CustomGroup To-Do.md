@@ -1,7 +1,6 @@
  Group
-	1. parent_group_code
 	2. level x -> 버릴 예정
-	3. 
+
 
 * json String 을 바로 entity 에 넣어서 작업 진행 중 (no dto)*
 
@@ -24,6 +23,8 @@
 		2. eabled = true
 		3. name 업데이트
 
+**2. Group Delete 
+
 - [x] 2. Group request 삭제 (전체 업데이트 시) ✅ 2023-11-15
 - http://localhost:8080/api/group/list
 6. 전체 업데이트 시 저장은 1번과 동일
@@ -39,6 +40,7 @@
 	 2. new 그룹 데이터와 기존 그룹 간 같은 그룹명이 존재하면 안됨. 
 		 1. 그룹명 중복시 01, 02... 넘버링 하여 그룹명 뒤에 append 
 	 3. 신 구 그룹데이터 비교하여 update 및 insert 
+	 4.  parent_group_code 업데이트 가능
 
 
 
