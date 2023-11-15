@@ -45,8 +45,8 @@ GetAll 시
 		3. 오류계정
 			1. employeeId 가 중복 아님
 			2. exeMail 정보로 검색된 email 을 가진 결과가 있는경우
-			3. - new data 의 exemail == oldata 의  email 인경우 (오류처리)
-			4. "중복오류"
+				1. - new data 의 exemail == oldata 의  email 인경우 (오류처리)
+			3. "중복오류"
 
 - 테스트 데이터 저장 
 - 등록 결과 회신 데이터 확인: 성공/실패 데이터 리스트 회신
