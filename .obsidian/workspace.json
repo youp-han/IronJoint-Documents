@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-API-Link/개발-Todo.md",
+                "file": "Project-API-Link/CustomGroup To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-API-Link/개발-Todo.md",
+                "file": "Project-API-Link/CustomGroup To-Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project-API-Link/개발-Todo.md"
+                "file": "Project-API-Link/CustomGroup To-Do.md"
               }
             }
           }
@@ -255,7 +255,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -268,12 +269,12 @@
       }
     ]
   },
-  "active": "0a3c05aad13070ed",
+  "active": "c42d1cdcff4c7b88",
   "lastOpenFiles": [
-    "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
-    "Project-API-Link/개발-Todo.md",
     "Project-API-Link/CustomUser To-Do.md",
     "Project-API-Link/CustomGroup To-Do.md",
+    "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
+    "Project-API-Link/개발-Todo.md",
     "Project-API-Link/TEST.md",
     "Pasted image 20230922144404.png",
     "Project-API-Link/환경 To-do.md",

@@ -1,3 +1,5 @@
+	1. 신규가입 email 생성 어떻게 하는지 확인
+
 modifiedUser 추가
 realm  데이터 넣기
 - [x] roles = "user" 디폴트로 추가해 주기 ✅ 2023-11-10
