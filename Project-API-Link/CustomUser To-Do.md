@@ -19,7 +19,7 @@
 	1.  **없으면 저장
 		1. 신규 계정 확인
 			1. userName, email 확인. 없으면 신규 계정
-			2. 신규 계정 시 userName 생셩
+			2. 신규 계정 시 userName 생성 및 추가
 				1. 정직원 (88888888)
 					1.  lastName_firstName
 				2. 지사스텝 (11111111)
@@ -29,7 +29,10 @@
 				4. SPA 직원(9999999999)
 					1. shop-employeeId
 		2. userName unique 확인
-		3. createUser 추가
+		3. createUser 추가 (principal.getName())
+		4. realm  데이터 넣기
+		5. reles = "user" 디폴트로 추가
+
 	2. **있으면 업데이트
 		1. userName 이 없으면 오류
 			1. 사번 중복 오류
@@ -49,37 +52,24 @@
 		3. 삭제 진행
 
 
+----------------------------------------------------------------
 1. 신규가입 email 생성 어떻게 하는지 확인
 
 modifiedUser 추가
 realm  데이터 넣기
-- [x] roles = "user" 디폴트로 추가해 주기 ✅ 2023-11-10
+- roles = "user" 디폴트로 추가해 주기
+- Controller -> Service customuserDto 로 주고 받기.
+- @Service 위에 @Transactional 넣기
+- GetAll 시 @Transactional(readOnly = true)
 
-- [x] Controller -> Service customuserDto 로 주고 받기.
-
-- [x] @Service 위에 @Transactional 넣기
-GetAll 시
-
-- [ ] request data 에서 중복 검사
-- [ ] username 앞 뒤 공백제거
-- [ ] username 검사 후 중복 시 넘버링
-- [ ] DB에는 컬럼이 존재하지만 request data에 없는데이터는 직접 생성하여 넣어줘야함
-- [ ] 계정 생성/가입시 - email, 사번, 계정 유형(도급, 정규)
-- [x] create_user 컬럼은 어디에서 만들어졌는지 판단하기 위한 정보성 컬럼(KEYCLOAK, NEWIAM, GAIYA) ✅ 2023-11-10 sysetm account
+- request data 에서 중복 검사
+- username 앞 뒤 공백제거
+- username 검사 후 중복 시 넘버링
+- DB에는 컬럼이 존재하지만 request data에 없는데이터는 직접 생성하여 넣어줘야함
+- 계정 생성/가입시 - email, 사번, 계정 유형(도급, 정규)
+- create_user 컬럼은 어디에서 만들어졌는지 판단하기 위한 정보성 컬럼(KEYCLOAK, NEWIAM, GAIYA) 
 
 
-
-
-
-- 테스트 데이터 저장 
-- 등록 결과 회신 데이터 확인: 성공/실패 데이터 리스트 회신
-- 중복 넘버링 테스트:
-    - 인프라테크 - 기존 데이터
-    - "인프라테크" 으로 등록처리: "인프라테크01" 으로 생성
-- 중복 데이터 점검:
-    - group code 기존 데이터 존재 그룹명이 다르면 update 처리
-    - group code 가 테이블에 없으면 오류 처리: 상위부서 코드가 없습니다.
-    - group code로 등록된 데이터가 없으면 신규 그룹 등록
 
 Custom user 테스트 케이스
 [4.6.0.2 통합계정 Test 시나리오 - 3G연구소 - Eland WIKI](https://wiki.eland.co.kr/pages/viewpage.action?pageId=311985745) 
@@ -114,21 +104,21 @@ list -> 업데이트/추가 데이터일때는 삭제 진행 안함.
 
 
 - 중복 데이터 점검:
-- [ ] 1. 보내준 데이터에는 employeeId 이 존재 하고, 검색한 테이블에 해당 사번의 custom user 존재, 보내준 데이터에는 username 없음 → 사번 중복 오류 (동일 사번으로 계정 생성할 수 없음)
- - [ ] 2. employeeId 과 username 이 같으면 update 처리
- - [ ] 3. employeeId 는 같은데 username 이 다르면 계정 변경 요청을 처리 불가
- - [ ] 4. emplpyeeId 로 등록된 데이터가 없고 username 이 비어있으면 신입 사원처리 (계정 추가)
+-  1. 보내준 데이터에는 employeeId 이 존재 하고, 검색한 테이블에 해당 사번의 custom user 존재, 보내준 데이터에는 username 없음 → 사번 중복 오류 (동일 사번으로 계정 생성할 수 없음) ✅ 2023-11-15
+ - 2. employeeId 과 username 이 같으면 update 처리 ✅ 2023-11-15
+ -  3. employeeId 는 같은데 username 이 다르면 계정 변경 요청을 처리 불가 ✅ 2023-11-15
+ - 4. emplpyeeId 로 등록된 데이터가 없고 username 이 비어있으면 신입 사원처리 (계정 추가) ✅ 2023-11-15
 
 - [x] 계정, username, email 이 없는경우 신입사원. ✅ 2023-11-11
-	- [ ] 신입사원 확인. (여부) 
-	- [x] 사번 확인. ✅ 2023-11-11
-	- [x] 사번 중복인 경우, (오류) 이미 등록된 user ${username} 입니다. ✅ 2023-11-11
-	- [x] 사번이 없는경우 : 신입사원 진행 ✅ 2023-11-11
+	- 신입사원 확인. (여부) ✅ 2023-11-15
+	- 사번 확인. ✅ 2023-11-11
+	- 사번 중복인 경우, (오류) 이미 등록된 user ${username} 입니다. ✅ 2023-11-11
+	-  사번이 없는경우 : 신입사원 진행 ✅ 2023-11-11
 - 
 	- [ ] 신입사원  만드는 방법
-		- [x] lastname+ "_______"+ firstname. ✅ 2023-11-11
-		- [x] 중복 확인 후 중복인  경우 넘버링 추가. (코드 수정. regularexpression 으로 넘버링 확인) ✅ 2023-11-11
-		- [ ] 테스트) input: 한승, -> db data: 한승엽
+		- lastname+ "_______"+ firstname. ✅ 2023-11-11
+		-  중복 확인 후 중복인  경우 넘버링 추가. (코드 수정. regularexpression 으로 넘버링 확인)
+		- 테스트) input: 한승, -> db data: 한승엽
 
 
 Group, User 모두  realm_id 추가 해서 검색해야 함.
