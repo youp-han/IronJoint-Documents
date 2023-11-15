@@ -42,6 +42,11 @@ GetAll 시
 					1. lastName.firstName
 				4. SPA 직원(9999999999)
 					1. shop-employeeId
+		3. 오류계정
+			1. employeeId 가 중복 아님
+			2. exeMail 정보로 검색된 email 을 가진 결과가 있는경우
+			3. - new data 의 exemail == oldata 의  email 인경우 (오류처리)
+			4. "중복오류"
 
 - 테스트 데이터 저장 
 - 등록 결과 회신 데이터 확인: 성공/실패 데이터 리스트 회신
@@ -123,14 +128,15 @@ new 사번은 다르고, new exeMail 의 계정으로 userName 을 만들어야 
 (중복오류:) 이미 등록된 userName 이 존재합니다.
 
 
-한국직원 A
+
+한국직원 A (old data)
 id : seo_youngwoo
 pw : 1234
 email : [seo_youngwoo@eland.co.kr](mailto:seo_youngwoo@eland.co.kr "mailto:seo_youngwoo@eland.co.kr")
 exmail : [devsyw@gmail.com](mailto:devsyw@gmail.com)
 
-한국직원 A가 중국으로 갔을때
-id : seo_youngwoo (sync) <-- 동일하게 유지
+한국직원 A가 중국으로 갔을때 (new data)
+id : seo_youngwoo (sync) <-- 동일하게 유지 (x) 안함 오류 케이스
 pw : 1234 (sync)
 email : [seo_youngwoo@elandfashion.cn](mailto:seo_youngwoo@elandfashion.cn "mailto:seo_youngwoo@elandfashion.cn")
 exmail: [seo_youngwoo@eland.co.kr](mailto:seo_youngwoo@eland.co.kr "mailto:seo_youngwoo@eland.co.kr") (sync key)
