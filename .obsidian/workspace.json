@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ea55740132d4c61",
+            "id": "b7bb3851bfad2908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople 회의/SMS API 만들기.md",
+                "file": "Project-API-Link/db clean.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innople 회의/SMS API 만들기.md",
+                "file": "Project-API-Link/db clean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innople 회의/SMS API 만들기.md",
+                "file": "Project-API-Link/db clean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innople 회의/SMS API 만들기.md"
+                "file": "Project-API-Link/db clean.md"
               }
             }
           }
@@ -157,8 +157,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0ea55740132d4c61",
+  "active": "e2a8ef450aeb0626",
   "lastOpenFiles": [
+    "Project-API-Link/SMS API 만들기.md",
+    "Project-API-Link/db clean.md",
+    "innople 회의/10-31 회의 - to-do list.md",
     "Project-API-Link/환경 To-do.md",
     "Project-API-Link/개발-Todo.md",
     "Project-API-Link/CustomGroup To-Do.md",
@@ -175,8 +178,6 @@
     "Project-API-Link",
     "innople 회의/10-24일 회의.md",
     "innople 회의/10-26일 회의.md",
-    "innople 회의/10-31 회의 - to-do list.md",
-    "innople 회의/SMS API 만들기.md",
     "innople 회의/innolink To-Do list.md",
     "innople 회의/innolink 개발 정보.md",
     "innople 회의/innoFrame nexus 배포.md",
