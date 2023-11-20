@@ -24,6 +24,15 @@ newCode (인증코드) 저장소
 forgot password:
 keycloak 화면에서 forgot password 클릭-> api 호출 -> api 에서 sms 전송 -> 인증번호를 forgot password 화면에 입력 -> api 호출, -> 인증번호가 맞으면, 저장했던 링크 화면에 전송.
 
+=====================
+- 2개 api. sms 화면(x)
+	- userName, mobile 전달 받음.
+	- 사용자엣 sms 전달 
+		- 본인인증 코드 (만들어서 전달)
+		- db 에 저장
+		- 
+
+
 email, mobile, sms 화면을 만든다.
 
 모바일:...

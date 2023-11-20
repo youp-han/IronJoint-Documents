@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project-API-Link/db clean.md",
+                "file": "Project-API-Link/SMS API 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-API-Link/db clean.md",
+                "file": "Project-API-Link/SMS API 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-API-Link/db clean.md",
+                "file": "Project-API-Link/SMS API 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project-API-Link/db clean.md"
+                "file": "Project-API-Link/SMS API 만들기.md"
               }
             }
           }
@@ -157,10 +157,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e2a8ef450aeb0626",
+  "active": "b7bb3851bfad2908",
   "lastOpenFiles": [
-    "Project-API-Link/SMS API 만들기.md",
     "Project-API-Link/db clean.md",
+    "Project-API-Link/SMS API 만들기.md",
     "innople 회의/10-31 회의 - to-do list.md",
     "Project-API-Link/환경 To-do.md",
     "Project-API-Link/개발-Todo.md",
