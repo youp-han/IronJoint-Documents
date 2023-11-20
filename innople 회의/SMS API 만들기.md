@@ -1,8 +1,21 @@
 - 신입사원 등록 시, 발송
 - ID 와 암호 (초기 암호는 initialpassword 저장.) 발송 (template Code 별)
 - mobile 번호가 없는경우 저장 금지.
--
 
+보내는 내용 : mobile no. 를 사용하여, username, groupname, initalpassword 를 전달 한다.
+
+       Map<String, Object> queries = new HashMap<>();
+        _/**  
+         *_ _김창호_ 　  _18616773282  
+         *_ _尤__陈__春_     _13761361984  
+         *_ _朴__艺兰_     _18501609106  
+         */_
+        queries.put("PhoneNumbers", "18616773282"); // 최초 인증된 번호
+	        queries.put("SignName", "中国衣恋集团");  
+			queries.put("TemplateCode", "SMS_462770417"); // d  
+			queries.put("TemplateParam", "{\"code\":\""+_getNewCode_()+"\"}");
+       
+newCode (인증코드) 저장소
 
 - 암호 바꿀 때, (6개월마다 및 forgot password(확인 중))
 - principle: getUserName, (login ID)
