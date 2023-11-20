@@ -29,8 +29,18 @@ keycloak 화면에서 forgot password 클릭-> api 호출 -> api 에서 sms 전�
 	- userName, mobile 전달 받음.
 	- 사용자엣 sms 전달 
 		- 본인인증 코드 (만들어서 전달)
-		- db 에 저장
+		- db 에 저장 (디비 확인)
+			- id
+			- 시간
+			- 코드
+
+	- success 여부를 반환
+- userName, mobile, 코드 전달받고
+	- db 저장 데이터와 확인 후
+		- 시간 내 전달 여부 확인
+		- 코드 일치 여부 확인
 		- 
+	- success 여부 전달
 
 
 email, mobile, sms 화면을 만든다.
