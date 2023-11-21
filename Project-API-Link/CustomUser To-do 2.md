@@ -7,16 +7,17 @@
 2. GroupCode 부재 시 오류
 3. GroupName 부재시 오류
 4. 둘다 없을 때, mobile, exemail (이메일 형태) 은 필수값. -> 연락처 오류
-5. birthday, hireddate 필수
+5.  hireddate 필수
 6. persg -> 필수 숫자. -> attribute 로 이동 (x)
 7. createdDate 필수
 8. firstName, lastName 둘다  없으면 : 이름 오류
-9.  오류계정
+9. employeeStatus,
+10.  오류계정
 		1. employeeId 가 중복 아님
 		2. exeMail 정보로 검색된 email 을 가진 결과가 있는경우
 			- new data 의 exemail == oldata 의  email 인경우 (오류처리)
 		3. "중복오류"
-10. employeeId 를 이용하여 중복 데이터 확인
+11. employeeId 를 이용하여 중복 데이터 확인
 	1.  **없으면 저장
 		1. 신규 계정 확인
 			1. userName, email 확인. 없으면 신규 계정
