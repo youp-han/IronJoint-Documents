@@ -1,5 +1,7 @@
 - 신입사원 등록 시, 발송
+- 신입사원 리스트를 받아서 발송.
 - ID 와 암호 (초기 암호는 initialpassword 저장.) 발송 (template Code 별)
+
 - mobile 번호가 없는경우 저장 금지.
 
 보내는 내용 : mobile no. 를 사용하여, username, groupname, initalpassword 를 전달 한다.
