@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project-API-Link/SMS API 만들기.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbf50a38c5568c9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project-API-Link/SMS API 만들기.md",
+                "file": "11-21 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-API-Link/SMS API 만들기.md",
+                "file": "11-21 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-API-Link/SMS API 만들기.md",
+                "file": "11-21 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project-API-Link/SMS API 만들기.md"
+                "file": "11-21 회의.md"
               }
             }
           }
@@ -171,10 +157,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bbf50a38c5568c9f",
+  "active": "e2a8ef450aeb0626",
   "lastOpenFiles": [
-    "11-21 회의.md",
     "Project-API-Link/SMS API 만들기.md",
+    "11-21 회의.md",
     "Project-API-Link/db clean.md",
     "Project-API-Link/CustomUser To-Do.md",
     "innople 회의/10-31 회의 - to-do list.md",
