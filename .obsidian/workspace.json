@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7bb3851bfad2908",
+            "id": "962d1ad0ae414e1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-21 회의.md",
+                "file": "Project-API-Link/CustomGroup To-Do.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76319c81bcd582a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project-API-Link/SMS API 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11-21 회의.md",
+                "file": "Project-API-Link/SMS API 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11-21 회의.md",
+                "file": "Project-API-Link/SMS API 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11-21 회의.md"
+                "file": "Project-API-Link/SMS API 만들기.md"
               }
             }
           }
@@ -157,16 +171,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e2a8ef450aeb0626",
+  "active": "76319c81bcd582a6",
   "lastOpenFiles": [
-    "Project-API-Link/SMS API 만들기.md",
-    "11-21 회의.md",
-    "Project-API-Link/db clean.md",
+    "Project-API-Link/CustomGroup To-do v2.md",
+    "Project-API-Link/CustomGroup To-do 2.md",
+    "Project-API-Link/CustomGroup To-Do.md",
     "Project-API-Link/CustomUser To-Do.md",
+    "11-21 회의.md",
+    "Project-API-Link/SMS API 만들기.md",
+    "Project-API-Link/db clean.md",
     "innople 회의/10-31 회의 - to-do list.md",
     "Project-API-Link/환경 To-do.md",
     "Project-API-Link/개발-Todo.md",
-    "Project-API-Link/CustomGroup To-Do.md",
     "Project-API-Link/TEST.md",
     "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "Pasted image 20230922144404.png",
@@ -194,8 +210,6 @@
     "Tistory/Steam",
     "Tistory/Obsidian",
     "무제 폴더 1",
-    "[Obsidian - Sharpen your thinking.md",
-    "Obsidian.md",
     "Tistory"
   ]
 }
