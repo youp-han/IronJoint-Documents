@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-API-Link/SMS API 만들기.md",
+                "file": "11-21 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-API-Link/SMS API 만들기.md",
+                "file": "11-21 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project-API-Link/SMS API 만들기.md"
+                "file": "11-21 회의.md"
               }
             }
           }
@@ -196,13 +197,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "76319c81bcd582a6",
+  "active": "2cc7afced73ca54e",
   "lastOpenFiles": [
-    "11-21 회의.md",
-    "Project-API-Link/db clean.md",
     "Project-API-Link/CustomUser To-do 2.md",
     "Project-API-Link/CustomGroup To-do v2.md",
     "Project-API-Link/SMS API 만들기.md",
+    "11-21 회의.md",
+    "Project-API-Link/db clean.md",
     "Project-API-Link/TEST.md",
     "Project-API-Link/CustomUser To-Do.md",
     "Project-API-Link/CustomGroup To-Do.md",
