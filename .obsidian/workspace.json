@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-21 회의.md",
+                "file": "Project-API-Link/SMS API 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11-21 회의.md",
+                "file": "Project-API-Link/SMS API 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11-21 회의.md",
+                "file": "Project-API-Link/SMS API 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11-21 회의.md"
+                "file": "Project-API-Link/SMS API 만들기.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "bbf50a38c5568c9f",
   "lastOpenFiles": [
-    "Project-API-Link/SMS API 만들기.md",
     "11-21 회의.md",
+    "Project-API-Link/SMS API 만들기.md",
     "Project-API-Link/db clean.md",
     "Project-API-Link/CustomUser To-Do.md",
     "innople 회의/10-31 회의 - to-do list.md",
