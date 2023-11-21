@@ -8,7 +8,7 @@
 3. GroupName 부재시 오류
 4. 둘다 없을 때, mobile, exemail (이메일 형태) 은 필수값. -> 연락처 오류
 5. birthday, hireddate 필수
-6. persg -> 필수 숫자. -> attribute 로 이동
+6. persg -> 필수 숫자. -> attribute 로 이동 (x)
 7. createdDate 필수
 8. firstName, lastName 둘다  없으면 : 이름 오류
 9.  오류계정
