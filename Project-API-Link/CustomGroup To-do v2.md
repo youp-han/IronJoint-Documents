@@ -1,6 +1,7 @@
  Group
 	2. level x -> 버릴 예정
 * json String 을 바로 entity 에 넣어서 작업 진행 중 (no dto)*
+* enabled = true/false.. 삭제시. false.
 
 
 
