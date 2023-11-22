@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project-API-Link/SMS API 만들기.md",
+                "file": "Project-API-Link/TEST.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-API-Link/SMS API 만들기.md",
+                "file": "Project-API-Link/TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-API-Link/SMS API 만들기.md",
+                "file": "Project-API-Link/TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project-API-Link/SMS API 만들기.md"
+                "file": "Project-API-Link/TEST.md"
               }
             }
           }
@@ -198,9 +198,9 @@
   },
   "active": "76319c81bcd582a6",
   "lastOpenFiles": [
+    "Project-API-Link/SMS API 만들기.md",
     "11-21 회의.md",
     "Project-API-Link/CustomUser To-do 2.md",
-    "Project-API-Link/SMS API 만들기.md",
     "Project-API-Link/CustomGroup To-do v2.md",
     "Project-API-Link/db clean.md",
     "Project-API-Link/TEST.md",
