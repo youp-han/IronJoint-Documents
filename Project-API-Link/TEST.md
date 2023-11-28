@@ -6,14 +6,14 @@ delete from CUSTOM_GROUP ;
 http://localhost:8080/api/interface/selfauth/sendsms?userName=joah.doe&template=SMS_463806004
 
 
-
-groupcode
+ 
+groupcode, AA, AA01, A111 -> A11101
 추가 엔티티
 uniquename 확인
 
 sms 코드 병합 후 재확인
 코드 재생 및 저장.
-코드 전송
+코드 전송 
 
 CustomUser 저장 시 delth 추가
 
