@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project-API-Link/CustomUser To-do 2.md",
+                "file": "innople 회의/api= tables.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project-API-Link/CustomUser To-do 2.md",
+                "file": "innople 회의/api= tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project-API-Link/CustomUser To-do 2.md",
+                "file": "innople 회의/api= tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project-API-Link/CustomUser To-do 2.md"
+                "file": "innople 회의/api= tables.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   },
   "active": "2cc7afced73ca54e",
   "lastOpenFiles": [
+    "Project-API-Link/CustomUser To-do 2.md",
     "Project-API-Link/db clean.md",
     "Project-API-Link/new SMS.md",
     "Project-API-Link/SMS API 만들기.md",
@@ -215,7 +216,6 @@
     "Project-API-Link/CustomGroup To-Do.md",
     "Project-API-Link/CustomGroup To-do v2.md",
     "Project-API-Link/CustomUser To-Do.md",
-    "Project-API-Link/CustomUser To-do 2.md",
     "innople 회의/10-31 회의 - to-do list.md",
     "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "Pasted image 20230922144404.png",
