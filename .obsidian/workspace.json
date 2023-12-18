@@ -68,6 +68,19 @@
             }
           },
           {
+            "id": "99ea5385ae41d95a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-Do 12-18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f78f7d5fea1d286b",
             "type": "leaf",
             "state": {
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12-11일 회의.md",
+                "file": "To-Do 12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12-11일 회의.md",
+                "file": "To-Do 12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12-11일 회의.md"
+                "file": "To-Do 12-18.md"
               }
             }
           }
@@ -218,8 +231,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f78f7d5fea1d286b",
+  "active": "99ea5385ae41d95a",
   "lastOpenFiles": [
+    "To-Do 12-18.md",
     "12-11일 회의.md",
     "innople 회의/api= tables.md",
     "Project-API-Link/CustomUser To-do 2.md",
@@ -247,7 +261,6 @@
     "innople 회의/10-12일 회의.md",
     "innople 회의/customuser.md",
     "Project-API-Link",
-    "innople 회의/10-24일 회의.md",
     "example_json.txt",
     "user-data-form（案例）.txt",
     "group-data-form（案例）.txt",
