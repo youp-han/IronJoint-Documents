@@ -97,9 +97,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b3b6a951f83c030",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -236,7 +246,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "011f57192575bb2f",
+  "active": "1b3b6a951f83c030",
   "lastOpenFiles": [
     "무제 파일.md",
     "12-26.md",
