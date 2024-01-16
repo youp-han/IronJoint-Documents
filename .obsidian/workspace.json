@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3dfdeff9b0b302f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-16 회의.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innople 회의/1-8 회의.md",
+                "file": "1-16 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innople 회의/1-8 회의.md",
+                "file": "1-16 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innople 회의/1-8 회의.md"
+                "file": "1-16 회의.md"
               }
             }
           }
@@ -157,10 +171,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4e653ea8b6822db7",
+  "active": "3dfdeff9b0b302f6",
   "lastOpenFiles": [
-    "1-12 회의.md",
+    "1-16 회의.md",
     "innople 회의/1-8 회의.md",
+    "1-12 회의.md",
     "innople 회의/12-26.md",
     "무제 파일.md",
     "innople 회의/12-11일 회의.md",
@@ -184,7 +199,6 @@
     "Project-API-Link/CustomGroup To-do v2.md",
     "Project-API-Link/CustomUser To-Do.md",
     "innople 회의/10-31 회의 - to-do list.md",
-    "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "Pasted image 20230922144404.png",
     "Project-API-Link",
     "example_json.txt",
