@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-16 회의.md",
+                "file": "innople 회의/11-28 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "groupcode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-16 회의.md",
+                "file": "innople 회의/11-28 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-16 회의.md",
+                "file": "innople 회의/11-28 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-16 회의.md"
+                "file": "innople 회의/11-28 회의.md"
               }
             }
           }
@@ -173,6 +174,7 @@
   },
   "active": "3dfdeff9b0b302f6",
   "lastOpenFiles": [
+    "Project-API-Link/CustomGroup To-Do.md",
     "1-16 회의.md",
     "innople 회의/1-8 회의.md",
     "1-12 회의.md",
@@ -195,7 +197,6 @@
     "innople 회의/innoFrame nexus 배포.md",
     "Project-API-Link/환경 To-do.md",
     "Project-API-Link/개발-Todo.md",
-    "Project-API-Link/CustomGroup To-Do.md",
     "Project-API-Link/CustomGroup To-do v2.md",
     "Project-API-Link/CustomUser To-Do.md",
     "innople 회의/10-31 회의 - to-do list.md",
