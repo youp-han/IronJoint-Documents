@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople 회의/1-8 회의.md",
+                "file": "innople 회의/1-16 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "groupcode",
+                "query": "employeeid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innople 회의/11-28 회의.md",
+                "file": "innople 회의/1-16 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innople 회의/11-28 회의.md",
+                "file": "innople 회의/1-16 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innople 회의/11-28 회의.md"
+                "file": "innople 회의/1-16 회의.md"
               }
             }
           }
@@ -172,12 +170,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3dfdeff9b0b302f6",
+  "active": "e2a8ef450aeb0626",
   "lastOpenFiles": [
-    "Project-API-Link/CustomGroup To-Do.md",
-    "1-16 회의.md",
     "innople 회의/1-8 회의.md",
-    "1-12 회의.md",
+    "innople 회의/11-28 회의.md",
+    "Project-API-Link/CustomGroup To-Do.md",
+    "innople 회의/1-16 회의.md",
+    "innople 회의/1-12 회의.md",
     "innople 회의/12-26.md",
     "무제 파일.md",
     "innople 회의/12-11일 회의.md",
@@ -189,7 +188,6 @@
     "Project-API-Link/SMS API 만들기.md",
     "Project-API-Link/TEST.md",
     "innople 회의/11-21 회의.md",
-    "innople 회의/11-28 회의.md",
     "innople 회의/11-14 회의.md",
     "innople 회의/Jenkins Setting.md",
     "innople 회의/innolink To-Do list.md",
