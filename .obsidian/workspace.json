@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-18 회의.md",
+                "file": "innople 회의/1-16 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-18 회의.md",
+                "file": "innople 회의/1-16 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-18 회의.md"
+                "file": "innople 회의/1-16 회의.md"
               }
             }
           }
@@ -184,12 +183,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "579cac0c5033a072",
+  "active": "4e653ea8b6822db7",
   "lastOpenFiles": [
+    "1-18 회의.md",
     "innople 회의/1-16 회의.md",
     "innople 회의/10-12일 회의.md",
     "innople 회의/11-28 회의.md",
-    "1-18 회의.md",
     "innople 회의/1-8 회의.md",
     "Project-API-Link/CustomGroup To-Do.md",
     "innople 회의/1-12 회의.md",
