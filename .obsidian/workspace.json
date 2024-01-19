@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e653ea8b6822db7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "innople 회의/1-16 회의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3dfdeff9b0b302f6",
             "type": "leaf",
             "state": {
@@ -183,7 +170,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4e653ea8b6822db7",
+  "active": "3dfdeff9b0b302f6",
   "lastOpenFiles": [
     "1-18 회의.md",
     "innople 회의/1-16 회의.md",
