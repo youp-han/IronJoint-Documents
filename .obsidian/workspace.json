@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c332210259a51c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-15.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-5 회의.md",
+                "file": "02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-5 회의.md",
+                "file": "02-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-5 회의.md"
+                "file": "02-15.md"
               }
             }
           }
@@ -184,8 +197,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b44c3e0ff10a2c9a",
+  "active": "c332210259a51c91",
   "lastOpenFiles": [
+    "02-15.md",
     "2-5 회의.md",
     "1-18 회의.md",
     "innople 회의/1-16 회의.md",
@@ -211,7 +225,6 @@
     "innople 회의/innolink 개발 정보.md",
     "innople 회의/innoFrame nexus 배포.md",
     "Project-API-Link/환경 To-do.md",
-    "Project-API-Link/개발-Todo.md",
     "Pasted image 20230922144404.png",
     "Project-API-Link",
     "example_json.txt",
