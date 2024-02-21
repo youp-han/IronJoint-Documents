@@ -193,8 +193,7 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "markdown-importer:마크다운 형식 가져오기 열기": false,
-      "obsidian42-brat:BRAT": false
+      "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
   "active": "c332210259a51c91",
