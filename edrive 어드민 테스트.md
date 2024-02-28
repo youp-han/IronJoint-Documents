@@ -19,6 +19,7 @@
 	5. "ADD" 
 		1. 선택시 팝업 정상 오픈: 성공
 		2. 입력 (테스트 불가)
+		3. [e:Drive (eland.co.kr)](https://edrive.eland.co.kr/)
 5. 공유폴더
 	1. 전체 검색 리스트 : 성공
 	2.  검색 : (by)
