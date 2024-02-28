@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-15.md",
+                "file": "To-Do 12-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-15.md",
+                "file": "To-Do 12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-15.md",
+                "file": "To-Do 12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-15.md"
+                "file": "To-Do 12-18.md"
               }
             }
           }
@@ -193,11 +193,13 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "markdown-importer:마크다운 형식 가져오기 열기": false
+      "markdown-importer:마크다운 형식 가져오기 열기": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "c332210259a51c91",
   "lastOpenFiles": [
+    "무제 파일.md",
     "02-15.md",
     "2-5 회의.md",
     "1-18 회의.md",
@@ -208,7 +210,6 @@
     "Project-API-Link/CustomGroup To-Do.md",
     "innople 회의/1-12 회의.md",
     "innople 회의/12-26.md",
-    "무제 파일.md",
     "innople 회의/12-11일 회의.md",
     "innople 회의/api= tables.md",
     "To-Do 12-18.md",
