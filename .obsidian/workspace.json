@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innople 회의/1-16 회의.md",
+                "file": "innolink api(CH) 회의/1-16 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-18 회의.md",
+                "file": "innolink api(CH) 회의/1-18 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-5 회의.md",
+                "file": "innolink api(CH) 회의/2-5 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Do 12-18.md",
+                "file": "innolink api(CH) 회의/To-Do 12-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -65,25 +65,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edrive 어드민 테스트.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "95282be3ef3cec18",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "edrive 어드민 테스트.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "edrive 어드민 테스트.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "edrive 어드민 테스트.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -220,42 +210,41 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "95282be3ef3cec18",
+  "active": "e6f414856c029528",
   "lastOpenFiles": [
-    "edrive 어드민 테스트.md",
-    "To-Do 12-18.md",
+    "innolink api(CH) 회의/02-15.md",
+    "innolink api(CH) 회의/2-5 회의.md",
+    "innolink api(CH) 회의/1-18 회의.md",
     "무제 파일.md",
-    "02-15.md",
-    "2-5 회의.md",
-    "1-18 회의.md",
-    "innople 회의/1-16 회의.md",
-    "innople 회의/10-12일 회의.md",
-    "innople 회의/11-28 회의.md",
-    "innople 회의/1-8 회의.md",
+    "innolink api(CH) 회의/To-Do 12-18.md",
+    "Pasted image 20230922144404.png",
+    "Pasted image 20230922144440.png",
+    "Project-API-Link/edrive 어드민 테스트.md",
+    "innolink api(CH) 회의/1-16 회의.md",
+    "innolink api(CH) 회의/10-12일 회의.md",
+    "innolink api(CH) 회의/11-28 회의.md",
+    "innolink api(CH) 회의/1-8 회의.md",
     "Project-API-Link/CustomGroup To-Do.md",
-    "innople 회의/1-12 회의.md",
-    "innople 회의/12-26.md",
-    "innople 회의/12-11일 회의.md",
-    "innople 회의/api= tables.md",
+    "innolink api(CH) 회의/1-12 회의.md",
+    "innolink api(CH) 회의/12-26.md",
+    "innolink api(CH) 회의/12-11일 회의.md",
+    "innolink api(CH) 회의/api= tables.md",
     "Project-API-Link/CustomUser To-do 2.md",
     "Project-API-Link/db clean.md",
     "Project-API-Link/new SMS.md",
     "Project-API-Link/SMS API 만들기.md",
     "Project-API-Link/TEST.md",
-    "innople 회의/11-21 회의.md",
-    "innople 회의/11-14 회의.md",
-    "innople 회의/Jenkins Setting.md",
-    "innople 회의/innolink To-Do list.md",
-    "innople 회의/innolink 개발 정보.md",
-    "innople 회의/innoFrame nexus 배포.md",
-    "Pasted image 20230922144404.png",
+    "innolink api(CH) 회의/11-21 회의.md",
+    "innolink api(CH) 회의/11-14 회의.md",
+    "innolink api(CH) 회의/Jenkins Setting.md",
+    "innolink api(CH) 회의/innolink To-Do list.md",
+    "innolink api(CH) 회의/innolink 개발 정보.md",
     "Project-API-Link",
     "example_json.txt",
     "user-data-form（案例）.txt",
     "group-data-form（案例）.txt",
     "settings.xml",
-    "Pasted image 20230922144440.png",
-    "innople 회의",
+    "innolink api(CH) 회의",
     "Tistory/Steam",
     "Tistory/Obsidian",
     "무제 폴더 1",
