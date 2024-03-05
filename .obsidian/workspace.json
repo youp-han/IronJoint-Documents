@@ -71,9 +71,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95282be3ef3cec18",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -210,7 +220,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e6f414856c029528",
+  "active": "95282be3ef3cec18",
   "lastOpenFiles": [
     "edrive 어드민 테스트.md",
     "To-Do 12-18.md",
