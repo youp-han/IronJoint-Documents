@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innolink api(CH) 회의/To-Do 12-18.md",
+                "file": "Tistory/드디어/드디어.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innolink api(CH) 회의/To-Do 12-18.md",
+                "file": "Tistory/드디어/드디어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innolink api(CH) 회의/To-Do 12-18.md",
+                "file": "Tistory/드디어/드디어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innolink api(CH) 회의/To-Do 12-18.md"
+                "file": "Tistory/드디어/드디어.md"
               }
             }
           }
@@ -199,9 +199,13 @@
   },
   "active": "c332210259a51c91",
   "lastOpenFiles": [
-    "yuzu.md",
-    "innolink api(CH) 회의/To-Do 12-18.md",
+    "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
+    "Tistory/드디어/드디어.md",
     "무제 파일.md",
+    "Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
+    "Tistory/드디어",
+    "innolink api(CH) 회의/To-Do 12-18.md",
+    "yuzu.md",
     "innolink api(CH) 회의/02-15.md",
     "innolink api(CH) 회의/2-5 회의.md",
     "innolink api(CH) 회의/1-18 회의.md",
@@ -224,9 +228,6 @@
     "Project-API-Link/TEST.md",
     "innolink api(CH) 회의/11-21 회의.md",
     "innolink api(CH) 회의/11-14 회의.md",
-    "innolink api(CH) 회의/Jenkins Setting.md",
-    "innolink api(CH) 회의/innolink To-Do list.md",
-    "innolink api(CH) 회의/innolink 개발 정보.md",
     "Project-API-Link",
     "example_json.txt",
     "user-data-form（案例）.txt",
@@ -235,7 +236,6 @@
     "innolink api(CH) 회의",
     "Tistory/Steam",
     "Tistory/Obsidian",
-    "무제 폴더 1",
-    "Tistory"
+    "무제 폴더 1"
   ]
 }
