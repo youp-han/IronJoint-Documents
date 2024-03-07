@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tistory/드디어/드디어.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tistory/드디어/드디어.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tistory/드디어/드디어.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tistory/드디어/드디어.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -199,8 +199,8 @@
   },
   "active": "c332210259a51c91",
   "lastOpenFiles": [
-    "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "Tistory/드디어/드디어.md",
+    "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "무제 파일.md",
     "Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "Tistory/드디어",
