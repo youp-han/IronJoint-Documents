@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "yuzu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "yuzu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "yuzu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "yuzu.md"
               }
             }
           }
@@ -200,12 +200,12 @@
   "active": "c332210259a51c91",
   "lastOpenFiles": [
     "Tistory/드디어/드디어.md",
-    "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
+    "yuzu.md",
     "무제 파일.md",
+    "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "Tistory/드디어",
     "innolink api(CH) 회의/To-Do 12-18.md",
-    "yuzu.md",
     "innolink api(CH) 회의/02-15.md",
     "innolink api(CH) 회의/2-5 회의.md",
     "innolink api(CH) 회의/1-18 회의.md",
