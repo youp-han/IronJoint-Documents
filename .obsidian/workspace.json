@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c332210259a51c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yuzu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yuzu.md",
+                "file": "innolink api(CH) 회의/2-5 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yuzu.md",
+                "file": "innolink api(CH) 회의/2-5 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yuzu.md"
+                "file": "innolink api(CH) 회의/2-5 회의.md"
               }
             }
           }
@@ -197,8 +184,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c332210259a51c91",
+  "active": "b44c3e0ff10a2c9a",
   "lastOpenFiles": [
+    "Tistory/드디어/war background.md",
+    "Tistory/드디어/중요 타임라인.md",
     "Tistory/드디어/드디어.md",
     "yuzu.md",
     "무제 파일.md",
@@ -226,8 +215,6 @@
     "Project-API-Link/new SMS.md",
     "Project-API-Link/SMS API 만들기.md",
     "Project-API-Link/TEST.md",
-    "innolink api(CH) 회의/11-21 회의.md",
-    "innolink api(CH) 회의/11-14 회의.md",
     "Project-API-Link",
     "example_json.txt",
     "user-data-form（案例）.txt",
