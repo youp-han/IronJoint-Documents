@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "df1dd0e257f91a15",
+        "id": "eaf155a22c7b4602",
         "type": "tabs",
         "children": [
           {
-            "id": "3dfdeff9b0b302f6",
+            "id": "7df255b06d93a214",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "innolink api(CH) 회의/1-16 회의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "579cac0c5033a072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "innolink api(CH) 회의/1-18 회의.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "248187071e80df1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "innolink api(CH) 회의/1-16 회의.md",
+                "file": "Tistory/무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "innolink api(CH) 회의/1-16 회의.md",
+                "file": "Tistory/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "innolink api(CH) 회의/1-16 회의.md",
+                "file": "Tistory/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "innolink api(CH) 회의/1-16 회의.md"
+                "file": "Tistory/무제 파일.md"
               }
             }
           }
@@ -184,15 +157,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "248187071e80df1e",
+  "active": "7df255b06d93a214",
   "lastOpenFiles": [
+    "Tistory/드디어/드디어.md",
+    "Tistory/무제 파일.md",
+    "Tistory/드디어/중요 타임라인.md",
+    "Tistory/드디어/war background.md",
+    "innolink api(CH) 회의/1-16 회의.md",
+    "innolink api(CH) 회의/1-18 회의.md",
     "innolink api(CH) 회의/1-12 회의.md",
     "innolink api(CH) 회의/1-8 회의.md",
-    "Tistory/드디어/중요 타임라인.md",
-    "innolink api(CH) 회의/1-18 회의.md",
-    "Tistory/드디어/드디어.md",
     "innolink api(CH) 회의/2-5 회의.md",
-    "Tistory/드디어/war background.md",
     "yuzu.md",
     "무제 파일.md",
     "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
@@ -203,7 +178,6 @@
     "Pasted image 20230922144404.png",
     "Pasted image 20230922144440.png",
     "Project-API-Link/edrive 어드민 테스트.md",
-    "innolink api(CH) 회의/1-16 회의.md",
     "innolink api(CH) 회의/10-12일 회의.md",
     "innolink api(CH) 회의/11-28 회의.md",
     "Project-API-Link/CustomGroup To-Do.md",
@@ -214,7 +188,6 @@
     "Project-API-Link/db clean.md",
     "Project-API-Link/new SMS.md",
     "Project-API-Link/SMS API 만들기.md",
-    "Project-API-Link/TEST.md",
     "Project-API-Link",
     "example_json.txt",
     "user-data-form（案例）.txt",
