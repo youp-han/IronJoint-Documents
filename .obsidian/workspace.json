@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d29c78d64ea9aaea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tistory/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tistory/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tistory/무제 파일.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,10 +162,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7df255b06d93a214",
+  "active": "d29c78d64ea9aaea",
   "lastOpenFiles": [
-    "Tistory/드디어/드디어.md",
     "Tistory/무제 파일.md",
+    "Tistory/드디어/드디어.md",
     "Tistory/드디어/중요 타임라인.md",
     "Tistory/드디어/war background.md",
     "innolink api(CH) 회의/1-16 회의.md",
