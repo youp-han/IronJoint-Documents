@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d57af53403a6020a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Project-API-Link/개발-Todo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Project-API-Link/개발-Todo.md",
+                "file": "3. Personal/git/add, commit, push, pull 관련 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Project-API-Link/개발-Todo.md",
+                "file": "3. Personal/git/add, commit, push, pull 관련 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Project-API-Link/개발-Todo.md"
+                "file": "3. Personal/git/add, commit, push, pull 관련 명령어.md"
               }
             }
           }
@@ -171,8 +157,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e2a8ef450aeb0626",
+  "active": "6344aa9a31e39465",
   "lastOpenFiles": [
+    "2. Project-API-Link/개발-Todo.md",
     "3. Personal/game/yuzu.md",
     "3. Personal/game",
     "3. Personal",
