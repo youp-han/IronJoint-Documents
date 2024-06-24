@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "와치 독스1 리전 구매한 김에 1편 완료.md",
+                "file": "add, commit, push, pull 관련 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "와치 독스1 리전 구매한 김에 1편 완료.md",
+                "file": "add, commit, push, pull 관련 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "와치 독스1 리전 구매한 김에 1편 완료.md"
+                "file": "add, commit, push, pull 관련 명령어.md"
               }
             }
           }
@@ -184,10 +184,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e2a8ef450aeb0626",
+  "active": "6344aa9a31e39465",
   "lastOpenFiles": [
-    "Tistory/드디어/war background.md",
     "와치 독스1 리전 구매한 김에 1편 완료.md",
+    "Tistory/드디어/war background.md",
     "add, commit, push, pull 관련 명령어.md",
     "Tistory/드디어/중요 타임라인.md",
     "Tistory/드디어/드디어.md",
