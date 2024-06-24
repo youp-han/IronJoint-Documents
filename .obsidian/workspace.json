@@ -11,13 +11,30 @@
             "id": "d29c78d64ea9aaea",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "Tistory/드디어/war background.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bebccb3f513b640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "와치 독스1 리전 구매한 김에 1편 완료.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "와치 독스1 리전 구매한 김에 1편 완료.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "와치 독스1 리전 구매한 김에 1편 완료.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "와치 독스1 리전 구매한 김에 1편 완료.md"
+              }
             }
           }
         ]
@@ -150,21 +171,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d29c78d64ea9aaea",
+  "active": "2bebccb3f513b640",
   "lastOpenFiles": [
+    "와치 독스1 리전 구매한 김에 1편 완료.md",
+    "Tistory/드디어/war background.md",
+    "Tistory/드디어/중요 타임라인.md",
+    "Tistory/드디어/드디어.md",
+    "무제 파일.md",
     "Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "Tistory/리전 구매한 김에 2편 완료.md",
-    "Tistory/드디어/드디어.md",
-    "Tistory/드디어/중요 타임라인.md",
-    "Tistory/드디어/war background.md",
     "innolink api(CH) 회의/1-16 회의.md",
     "innolink api(CH) 회의/1-18 회의.md",
     "innolink api(CH) 회의/1-12 회의.md",
     "innolink api(CH) 회의/1-8 회의.md",
     "innolink api(CH) 회의/2-5 회의.md",
     "yuzu.md",
-    "무제 파일.md",
     "Tistory/드디어",
     "innolink api(CH) 회의/To-Do 12-18.md",
     "innolink api(CH) 회의/02-15.md",
@@ -180,7 +202,6 @@
     "Project-API-Link/CustomUser To-do 2.md",
     "Project-API-Link/db clean.md",
     "Project-API-Link/new SMS.md",
-    "Project-API-Link/SMS API 만들기.md",
     "Project-API-Link",
     "example_json.txt",
     "user-data-form（案例）.txt",
