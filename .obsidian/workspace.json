@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6344aa9a31e39465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "add, commit, push, pull 관련 명령어.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "와치 독스1 리전 구매한 김에 1편 완료.md",
+                "file": "add, commit, push, pull 관련 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "와치 독스1 리전 구매한 김에 1편 완료.md",
+                "file": "add, commit, push, pull 관련 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "와치 독스1 리전 구매한 김에 1편 완료.md"
+                "file": "add, commit, push, pull 관련 명령어.md"
               }
             }
           }
@@ -171,8 +185,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2bebccb3f513b640",
+  "active": "6344aa9a31e39465",
   "lastOpenFiles": [
+    "add, commit, push, pull 관련 명령어.md",
     "와치 독스1 리전 구매한 김에 1편 완료.md",
     "Tistory/드디어/war background.md",
     "Tistory/드디어/중요 타임라인.md",
@@ -201,7 +216,6 @@
     "innolink api(CH) 회의/api= tables.md",
     "Project-API-Link/CustomUser To-do 2.md",
     "Project-API-Link/db clean.md",
-    "Project-API-Link/new SMS.md",
     "Project-API-Link",
     "example_json.txt",
     "user-data-form（案例）.txt",
