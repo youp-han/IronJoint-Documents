@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Personal/getRichj.md",
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Personal/getRichj.md",
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Personal/getRichj.md",
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Personal/getRichj.md"
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md"
               }
             }
           }
@@ -159,8 +159,9 @@
   },
   "active": "6344aa9a31e39465",
   "lastOpenFiles": [
-    "3. Personal/game/와치 독스1 리전 구매한 김에 1편 완료.md",
     "3. Personal/getRichj.md",
+    "2. Project-API-Link/인수인계 2024-06-07.md",
+    "3. Personal/game/와치 독스1 리전 구매한 김에 1편 완료.md",
     "3. Personal/git/add, commit, push, pull 관련 명령어.md",
     "2. Project-API-Link/개발-Todo.md",
     "3. Personal/game/yuzu.md",
@@ -190,7 +191,6 @@
     "1. innolink api(CH) 회의/11-28 회의.md",
     "2. Project-API-Link/CustomGroup To-Do.md",
     "1. innolink api(CH) 회의/12-26.md",
-    "1. innolink api(CH) 회의/12-11일 회의.md",
     "2. Project-API-Link",
     "example_json.txt",
     "user-data-form（案例）.txt",
