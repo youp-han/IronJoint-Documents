@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "ad5c9450b78a2307",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Project-API-Link/인수인계 2024-06-07.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -168,10 +157,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ad5c9450b78a2307",
+  "active": "6344aa9a31e39465",
   "lastOpenFiles": [
-    "3. Personal/getRichj.md",
     "2. Project-API-Link/인수인계 2024-06-07.md",
+    "3. Personal/getRichj.md",
     "3. Personal/game/와치 독스1 리전 구매한 김에 1편 완료.md",
     "3. Personal/git/add, commit, push, pull 관련 명령어.md",
     "2. Project-API-Link/개발-Todo.md",
