@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad5c9450b78a2307",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6344aa9a31e39465",
+  "active": "ad5c9450b78a2307",
   "lastOpenFiles": [
     "3. Personal/getRichj.md",
     "2. Project-API-Link/인수인계 2024-06-07.md",
