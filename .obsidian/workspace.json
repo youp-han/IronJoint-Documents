@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eaf155a22c7b4602",
+        "id": "11d2e1792ed9773a",
         "type": "tabs",
         "children": [
           {
-            "id": "6344aa9a31e39465",
+            "id": "874bb9f201c4d907",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Project-API-Link/jenkins 이관시 작업 내용.md",
+                "file": "2. Project-API-Link/SMS API 만들기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Project-API-Link/jenkins 이관시 작업 내용.md",
+                "file": "2. Project-API-Link/SMS API 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Project-API-Link/jenkins 이관시 작업 내용.md",
+                "file": "2. Project-API-Link/SMS API 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Project-API-Link/jenkins 이관시 작업 내용.md"
+                "file": "2. Project-API-Link/SMS API 만들기.md"
               }
             }
           }
@@ -157,10 +157,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6344aa9a31e39465",
+  "active": "874bb9f201c4d907",
   "lastOpenFiles": [
-    "2. Project-API-Link/인수인계 2024-06-07.md",
     "2. Project-API-Link/jenkins 이관시 작업 내용.md",
+    "2. Project-API-Link/SMS API 만들기.md",
+    "2. Project-API-Link/TEST.md",
+    "2. Project-API-Link/인수인계 2024-06-07.md",
     "무제 파일.md",
     "3. Personal/getRichj.md",
     "3. Personal/game/와치 독스1 리전 구매한 김에 1편 완료.md",
@@ -189,8 +191,6 @@
     "1. innolink api(CH) 회의/02-15.md",
     "2. Project-API-Link/edrive 어드민 테스트.md",
     "1. innolink api(CH) 회의/10-12일 회의.md",
-    "1. innolink api(CH) 회의/11-28 회의.md",
-    "2. Project-API-Link/CustomGroup To-Do.md",
     "2. Project-API-Link",
     "example_json.txt",
     "user-data-form（案例）.txt",
