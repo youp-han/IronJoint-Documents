@@ -11,8 +11,26 @@
             "id": "7fc9be87ec98162d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c243456aad07c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "인수인계 2024-07-17.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "admin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md"
+              }
             }
           }
         ]
@@ -151,6 +172,7 @@
   },
   "active": "7fc9be87ec98162d",
   "lastOpenFiles": [
+    "인수인계 2024-07-17.md",
     "2. Project-API-Link/인수인계 2024-06-07.md",
     "2. Project-API-Link/SMS API 만들기.md",
     "2. Project-API-Link/jenkins 이관시 작업 내용.md",
@@ -165,7 +187,6 @@
     "3. Personal",
     "Pasted image 20230922144440.png",
     "Pasted image 20230922144404.png",
-    "무제 파일 1.md",
     "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "4. Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "3. Personal/git",
