@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7fc9be87ec98162d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Project-API-Link/환경 To-do.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c243456aad07c12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회의 2024-07-23.md",
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영 china.md",
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영 china.md",
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영 china.md"
+                "file": "2. Project-API-Link/인수인계 2024-06-07.md"
               }
             }
           }
@@ -184,7 +170,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d8947fad0d6fd680",
+  "active": "2c243456aad07c12",
   "lastOpenFiles": [
     "회의 2024-07-23.md",
     "2. Project-API-Link/환경 To-do.md",
