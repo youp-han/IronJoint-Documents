@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mvn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Project-API-Link/인수인계 2024-06-07.md",
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Project-API-Link/인수인계 2024-06-07.md"
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md"
               }
             }
           }
@@ -172,6 +173,9 @@
   },
   "active": "2c243456aad07c12",
   "lastOpenFiles": [
+    "1. innolink api(CH) 회의/Jenkins Setting.md",
+    "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
+    "2. Project-API-Link/인수인계 2024-06-07.md",
     "회의 2024-07-23.md",
     "2. Project-API-Link/환경 To-do.md",
     "운영 china.md",
@@ -184,7 +188,6 @@
     "1. innolink api(CH) 회의/1-16 회의.md",
     "1. innolink api(CH) 회의/1-12 회의.md",
     "1. innolink api(CH) 회의/1-8 회의.md",
-    "2. Project-API-Link/인수인계 2024-06-07.md",
     "2. Project-API-Link/SMS API 만들기.md",
     "2. Project-API-Link/jenkins 이관시 작업 내용.md",
     "2. Project-API-Link/TEST.md",
@@ -201,8 +204,6 @@
     "4. Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "3. Personal/git",
     "4. Tistory/드디어/war background.md",
-    "4. Tistory/드디어/중요 타임라인.md",
-    "4. Tistory/드디어/드디어.md",
     "4. Tistory/드디어",
     "2. Project-API-Link",
     "example_json.txt",
