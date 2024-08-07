@@ -8,3 +8,17 @@
 		1. 10.201.10.218 에 연결하여 active directory suers and computers 
 		2. 사용자 검색 -> Account expires 를 end of 로 고치고 apply, 다시 never 로 고치고 apply 한다.
 		3. 0xFFFFFFF -> 0x0 으로 바뀌면 성공
+
+2. api 문제
+	1. log 에서 error-fail - modify account 오류가 남
+		--> 신규 생성id 문제.
+		--> 로그에서 fail 이 됨
+		--> adexplorer 에서 확인 하여 545 인 경우 문제 (주로 512임)
+			samaccount 에서 username 을 넣고 검색 
+			(메일 생성 확인 : elandchina.cn : proxy 메일 확인) - ???
+			
+	1. keyCloak url 과 암호 (eland-china)
+		sso.eland-china.com (admin/open@0123High)
+		-- created 되다 말아서 계속 update 문제되는 account 로 확인 되면, 
+		keycloak 에서 user_name 을 검색만 하면 ad 에서 자동 정보를 가지고 와서 update 된다.
+		db 에서 해당 계정의 modify_date 를 로컬 시간으로 변경하면, 다음 키클럭 실행 시 반영됨.

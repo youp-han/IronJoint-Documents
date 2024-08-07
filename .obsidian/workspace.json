@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
+                "file": "운영 china.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
+                "file": "운영 china.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
+                "file": "운영 china.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. innolink api(CH) 회의/인수인계 2024-06-07.md"
+                "file": "운영 china.md"
               }
             }
           }
@@ -157,12 +157,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e2a8ef450aeb0626",
+  "active": "d8947fad0d6fd680",
   "lastOpenFiles": [
+    "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
     "회의 2024-07-23.md",
     "운영 china.md",
     "무제 파일.md",
-    "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
     "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
     "1. innolink api(CH) 회의/12-11일 회의.md",
     "1. innolink api(CH) 회의/Jenkins Setting.md",
