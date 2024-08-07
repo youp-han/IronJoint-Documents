@@ -21,4 +21,11 @@
 		sso.eland-china.com (admin/open@0123High)
 		-- created 되다 말아서 계속 update 문제되는 account 로 확인 되면, 
 		keycloak 에서 user_name 을 검색만 하면 ad 에서 자동 정보를 가지고 와서 update 된다.
-		db 에서 해당 계정의 modify_date 를 로컬 시간으로 변경하면, 다음 키클럭 실행 시 반영됨.
+		db 에서 해당 계정의 modified (modified_date 아님) 를 로컬 시간으로 변경하면, 다음 키클럭 실행 시 반영됨.
+		
+	1. keyclock 데이터 확인
+		 - 사용자 확인: Keycloak -> eland-china ->users
+		 - 동기화 : User Federation -> Custom User (custom_user 테이블 과 동기화)
+		 - 상단 우축 Action -> Sync Changed users
+		 - 		 - 동기화 : User Federation ->AD (AD테이블 과 동기화)
+	
