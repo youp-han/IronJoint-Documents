@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "운영 china.md",
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "modified",
+                "query": "mvn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "운영 china.md",
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "운영 china.md",
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "운영 china.md"
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md"
               }
             }
           }
@@ -172,14 +173,19 @@
   },
   "active": "d8947fad0d6fd680",
   "lastOpenFiles": [
-    "2024-08-07 회의.md",
-    "운영 china.md",
     "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
+    "1. innolink api(CH) 회의/api= tables.md",
+    "1. innolink api(CH) 회의/DB SQL.md",
+    "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
+    "1. innolink api(CH) 회의/innolink 개발 정보.md",
+    "1. innolink api(CH) 회의/innolink To-Do list.md",
+    "1. innolink api(CH) 회의/Jenkins Setting.md",
+    "1. innolink api(CH) 회의/To-Do 12-18.md",
+    "운영 china.md",
+    "2024-08-07 회의.md",
     "회의 2024-07-23.md",
     "무제 파일.md",
-    "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
     "1. innolink api(CH) 회의/12-11일 회의.md",
-    "1. innolink api(CH) 회의/Jenkins Setting.md",
     "2. Project-API-Link/환경 To-do.md",
     "1. innolink api(CH) 회의/10-24일 회의.md",
     "1. innolink api(CH) 회의/10-12일 회의.md",
@@ -193,15 +199,10 @@
     "2. Project-API-Link/jenkins 이관시 작업 내용.md",
     "2. Project-API-Link/TEST.md",
     "3. Personal/getRichj.md",
-    "3. Personal/game/와치 독스1 리전 구매한 김에 1편 완료.md",
-    "3. Personal/git/add, commit, push, pull 관련 명령어.md",
-    "2. Project-API-Link/개발-Todo.md",
-    "3. Personal/game/yuzu.md",
     "3. Personal/game",
     "3. Personal",
     "Pasted image 20230922144440.png",
     "Pasted image 20230922144404.png",
-    "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "3. Personal/git",
     "4. Tistory/드디어",
     "2. Project-API-Link",
