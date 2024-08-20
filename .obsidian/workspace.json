@@ -32,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edd454c6dbdbd040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
+                "file": "무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
+                "file": "무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md"
+                "file": "무제 파일 1.md"
               }
             }
           }
@@ -171,12 +185,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d8947fad0d6fd680",
+  "active": "edd454c6dbdbd040",
   "lastOpenFiles": [
+    "무제 파일 1.md",
+    "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
     "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
     "1. innolink api(CH) 회의/api= tables.md",
     "1. innolink api(CH) 회의/DB SQL.md",
-    "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
     "1. innolink api(CH) 회의/innolink 개발 정보.md",
     "1. innolink api(CH) 회의/innolink To-Do list.md",
     "1. innolink api(CH) 회의/Jenkins Setting.md",
@@ -198,7 +213,6 @@
     "2. Project-API-Link/SMS API 만들기.md",
     "2. Project-API-Link/jenkins 이관시 작업 내용.md",
     "2. Project-API-Link/TEST.md",
-    "3. Personal/getRichj.md",
     "3. Personal/game",
     "3. Personal",
     "Pasted image 20230922144440.png",
