@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "2024-08-20 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "2024-08-20 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "2024-08-20 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 1.md"
+                "file": "2024-08-20 회의.md"
               }
             }
           }
@@ -187,8 +187,9 @@
   },
   "active": "edd454c6dbdbd040",
   "lastOpenFiles": [
-    "무제 파일 1.md",
+    "2024-08-07 회의.md",
     "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
+    "2024-08-20 회의.md",
     "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
     "1. innolink api(CH) 회의/api= tables.md",
     "1. innolink api(CH) 회의/DB SQL.md",
@@ -197,7 +198,6 @@
     "1. innolink api(CH) 회의/Jenkins Setting.md",
     "1. innolink api(CH) 회의/To-Do 12-18.md",
     "운영 china.md",
-    "2024-08-07 회의.md",
     "회의 2024-07-23.md",
     "무제 파일.md",
     "1. innolink api(CH) 회의/12-11일 회의.md",
