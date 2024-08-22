@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mvn",
+                "query": "admin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +185,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "edd454c6dbdbd040",
+  "active": "402772635d6638dd",
   "lastOpenFiles": [
     "2024-08-07 회의.md",
     "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
