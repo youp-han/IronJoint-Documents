@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "updated",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo.md",
+                "file": "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo.md",
+                "file": "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo.md"
+                "file": "1. innolink api(CH) 회의/인수인계 2024-06-07.md"
               }
             }
           }
@@ -184,13 +185,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f35229dcb61a62f4",
+  "active": "402772635d6638dd",
   "lastOpenFiles": [
-    "ToDo.md",
+    "운영 china.md",
+    "1. innolink api(CH) 회의/12-11일 회의.md",
     "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
+    "ToDo.md",
     "2024-08-20 회의.md",
     "2024-08-07 회의.md",
-    "운영 china.md",
     "1. innolink api(CH) 회의/10-24일 회의.md",
     "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
     "무제 파일 1.md",
@@ -202,7 +204,6 @@
     "1. innolink api(CH) 회의/To-Do 12-18.md",
     "회의 2024-07-23.md",
     "무제 파일.md",
-    "1. innolink api(CH) 회의/12-11일 회의.md",
     "2. Project-API-Link/환경 To-do.md",
     "1. innolink api(CH) 회의/10-12일 회의.md",
     "1. innolink api(CH) 회의/02-15.md",
