@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-03 회의.md",
+                "file": "2024-09-03 회의.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-03 회의.md",
+                "file": "2024-09-03 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09-03 회의.md",
+                "file": "2024-09-03 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09-03 회의.md"
+                "file": "2024-09-03 회의.md"
               }
             }
           }
@@ -199,7 +199,7 @@
   },
   "active": "186ed8c85e35403c",
   "lastOpenFiles": [
-    "09-03 회의.md",
+    "2024-09-03 회의.md",
     "ToDo.md",
     "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
     "운영 china.md",
