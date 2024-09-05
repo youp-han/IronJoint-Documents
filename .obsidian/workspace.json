@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. innolink api(CH) 회의/인수인계 2024-06-07.md"
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md"
               }
             }
           }
@@ -197,11 +196,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8e77db3f6c1875cd",
+  "active": "d8947fad0d6fd680",
   "lastOpenFiles": [
+    "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
     "ToDo.md",
     "2024-09-03 회의.md",
-    "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
     "운영 china.md",
     "1. innolink api(CH) 회의/12-11일 회의.md",
     "2024-08-20 회의.md",
