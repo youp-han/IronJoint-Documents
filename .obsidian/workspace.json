@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-21.md",
+                "file": "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-21"
+              "title": "Obsidian 에서 티스토리로 글 보내기"
             }
           }
         ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-21.md",
+                "file": "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-10-21의 백링크"
+              "title": "Obsidian 에서 티스토리로 글 보내기의 백링크"
             }
           },
           {
@@ -184,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-21.md",
+                "file": "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2024-10-21의 나가는 링크"
+              "title": "Obsidian 에서 티스토리로 글 보내기의 나가는 링크"
             }
           },
           {
@@ -211,10 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-21.md"
+                "file": "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md"
               },
               "icon": "lucide-list",
-              "title": "2024-10-21 개요"
+              "title": "Obsidian 에서 티스토리로 글 보내기 개요"
             }
           }
         ]
@@ -238,7 +238,9 @@
   },
   "active": "1c427f243e99bbcd",
   "lastOpenFiles": [
-    "4. Tistory/steamdeck switch emulator yuzu 설치.md",
+    "4. Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
+    "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
+    "4. Tistory/Obsidian/steamdeck switch emulator yuzu 설치.md",
     "2024-10-21.md",
     "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
     "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
@@ -262,8 +264,6 @@
     "1. innolink api(CH) 회의/10-12일 회의.md",
     "1. innolink api(CH) 회의/02-15.md",
     "1. innolink api(CH) 회의/2-5 회의.md",
-    "1. innolink api(CH) 회의/1-18 회의.md",
-    "1. innolink api(CH) 회의/1-16 회의.md",
     "3. Personal/game",
     "3. Personal",
     "Pasted image 20230922144440.png",
