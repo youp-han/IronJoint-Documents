@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "innoFrame nexus 배포"
             }
           },
           {
@@ -30,7 +32,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "인수인계 2024-06-07"
             }
           },
           {
@@ -43,7 +47,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ToDo"
             }
           },
           {
@@ -56,7 +62,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-09-03 회의"
             }
           },
           {
@@ -65,15 +73,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 2.md",
+                "file": "2024-10-21.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-21"
+            }
+          },
+          {
+            "id": "34521d4a9b5c7802",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,7 +115,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -108,7 +132,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -116,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -124,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -147,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 2.md",
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +185,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "innoFrame nexus 배포의 백링크"
             }
           },
           {
@@ -164,10 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 2.md",
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "innoFrame nexus 배포의 나가는 링크"
             }
           },
           {
@@ -178,7 +212,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -187,8 +223,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 2.md"
-              }
+                "file": "1. innolink api(CH) 회의/innoFrame nexus 배포.md"
+              },
+              "icon": "lucide-list",
+              "title": "innoFrame nexus 배포 개요"
             }
           }
         ]
@@ -210,9 +248,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1c427f243e99bbcd",
+  "active": "34521d4a9b5c7802",
   "lastOpenFiles": [
-    "무제 파일 2.md",
+    "2024-10-21.md",
     "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
     "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
     "ToDo.md",
