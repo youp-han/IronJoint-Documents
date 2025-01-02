@@ -12,12 +12,14 @@ EIMS
 	- maven : 3.3.9
 	- svn : http://krsapvcsdv01:8090/scm/svn/2017/RCRM_Project/branch/GNEIMS/Loyalty
 	- 로컬 파일 카피
+	- user: ???
 	
 - DEV_RCRM_EIMS_OneClickApi
 	- jdk 1.8.0_92
 	- svn: http://krsapvcsdv01:8090/scm/svn/2017/RCRM_Project/branch/GNEIMS/LoyTxnOneClickApi
 	- Maven 3.3.9
 	- ssh to IP 10.123.185.98
+	- user: eland_user
 	
 - DEV_RCRM_EIMS_PartnerApi
 	- Server : KRVROCBDEV01 (121.190.88.200) : windows
@@ -31,12 +33,14 @@ EIMS
 	- Maven 3.3.9
 	- svn: http://krsapvcsdv01:8090/scm/svn/2017/RCRM_Project/branch/GNEIMS/LoyTxnServer@$REV
 	- 배포: secure copy (scp) to 10.123.50.53
+	- user: elanduser
 	-
 - DEV_RCRM_EIMS_PosApi
 	- jdk 1.8.0_92
 	- Maven 3.3.9
 	- svn: http://krsapvcsdv01:8090/scm/svn/2017/RCRM_Project/branch/GNEIMS/LoyPosApi
 	- 배포 : ssh to 10.123.50.53
+	- user = elanduser
 
 RDRC
 - DEV_RCRM_EIMS_IGIGNAL_ADMIN
@@ -55,4 +59,7 @@ ERCS
 	- 배포: ssh
 		- IP=10.123.50.100
 		- USER=mktadmin
-- 
+- PRD_RCRM_ERCS
+	- 배포 : ssh
+		- IP: 10.123.183.21, 10.123.183.22
+		- USER=mktadmin
