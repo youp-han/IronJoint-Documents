@@ -26,10 +26,15 @@
             "id": "e80e2123623edb09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "jira-svn 연동.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "jira-svn 연동"
             }
           }
         ],
@@ -188,6 +193,8 @@
   },
   "active": "e80e2123623edb09",
   "lastOpenFiles": [
+    "Pasted image 20230922144404.png",
+    "jira-svn 연동.md",
     "jenkins 이관 EKKS.md",
     "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
     "ToDo.md",
@@ -212,12 +219,9 @@
     "1. innolink api(CH) 회의/innolink To-Do list.md",
     "1. innolink api(CH) 회의/Jenkins Setting.md",
     "1. innolink api(CH) 회의/To-Do 12-18.md",
-    "2. Project-API-Link/환경 To-do.md",
-    "1. innolink api(CH) 회의/10-12일 회의.md",
     "3. Personal/game",
     "3. Personal",
     "Pasted image 20230922144440.png",
-    "Pasted image 20230922144404.png",
     "3. Personal/git",
     "4. Tistory/드디어",
     "2. Project-API-Link",
