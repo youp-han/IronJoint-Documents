@@ -1,5 +1,10 @@
 
-Repository 등록: jira -> admin -> system -> add-ons -> subversion repositories
+jira 와 svn 연동 방법 7.3.7 : [JIRA and SVN Integration Tutorial](https://www.softwaretestinghelp.com/jira-svn-integration/)
+연동은 이미 되어 있음.
+
+fslk svn Repository 등록: jira -> admin -> system -> add-ons -> subversion repositories
+
+update 는 every hour 로 설정 되어 있다.
 
 
 단순, 일반 test 화면 : [[TES-1] test 이슈 입니다. - Eland JIRA](https://jira.eland.co.kr/projects/TES/issues/TES-1?filter=allissues)
