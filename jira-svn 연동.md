@@ -8,3 +8,5 @@ Repository 등록: jira -> admin -> system -> add-ons -> subversion repositories
 
 방법, subversion 등록, 
 commit 시 이슈 번호 추가 : TES-1
+
+hook : [Script - SVN Hook PreCommit - 1 - 풀필먼트솔루션 - Eland WIKI](https://wiki.eland.co.kr/display/FSLN/Script+-+SVN+Hook+PreCommit+-+1)
