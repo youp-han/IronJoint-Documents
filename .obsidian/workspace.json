@@ -37,8 +37,7 @@
               "title": "jira-svn 연동"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,11 +190,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e80e2123623edb09",
+  "active": "6a6bd78699a5072e",
   "lastOpenFiles": [
+    "jira-svn 연동.md",
     "Pasted image 20250108163110.png",
     "Pasted image 20230922144404.png",
-    "jira-svn 연동.md",
     "jenkins 이관 EKKS.md",
     "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
     "ToDo.md",
