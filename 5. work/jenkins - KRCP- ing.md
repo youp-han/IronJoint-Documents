@@ -2,7 +2,7 @@ old server -> 10.123.185.245
 to server ->  10.123.253.123
 
 배포 서버
-개발 :
+개발 :KRVAKRCPWEBQA01 : 10.123.253.83
    was.path=D:/Jenkins/KRCP_Admin
    was.path=D:/Jenkins/KRCP_Web
 운영:
