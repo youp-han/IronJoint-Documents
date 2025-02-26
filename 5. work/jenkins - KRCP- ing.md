@@ -18,6 +18,18 @@ http://10.123.253.123:8080/
 빌드: mvn clean package
 Coms/pom.xml 
 
+
+ssh 포트 오픈 요청 필요
+
+source : 10.123.253.123
+destination: 
+- 개발 10.123.253.83, 
+- 운영1: 10.123.250.145
+- 운영 2: 10.123.250.146
+포트: 22
+
+
+
 배포 서버
 개발 :KRVAKRCPWEBQA01 : 10.123.253.83
 ant 배포 -> 로컬 -> ssh 로 변경
@@ -25,7 +37,9 @@ Admin/build.xml -> target dev
 - was.path=D:/Jenkins/KRCP_Admin
 Web/build.xml -> target dev
 - was.path=D:/Jenkins/KRCP_Web
-   
+
+
+
 운영:
 - web
 	- was.ip=10.123.250.145
