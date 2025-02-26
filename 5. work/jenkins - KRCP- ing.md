@@ -5,7 +5,7 @@ to server ->  10.123.253.123
 http://10.123.253.123:8080/ 
 
 - build java version 
-	- jdk-12.0.2
+	- jdk-12.0.2 (설치함)
 - maven
 	- Maven 3.6.3
 - 
