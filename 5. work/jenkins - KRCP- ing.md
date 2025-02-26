@@ -4,10 +4,27 @@ http://10.123.185.245:8080/
 to server ->  10.123.253.123
 http://10.123.253.123:8080/ 
 
+- build java version 
+	- jdk-12.0.2
+- maven
+	- Maven 3.6.3
+- 
+
+- git: http://svn.elandsystems.com:8090/scm/git/2022/KRCP_Project 
+- branch
+	- develop
+	- master
+
+빌드: mvn clean package
+Coms/pom.xml 
+
 배포 서버
 개발 :KRVAKRCPWEBQA01 : 10.123.253.83
-   was.path=D:/Jenkins/KRCP_Admin
-   was.path=D:/Jenkins/KRCP_Web
+ant 배포 -> 로컬 -> ssh 로 변경
+Admin/build.xml -> target dev
+- was.path=D:/Jenkins/KRCP_Admin
+Web/build.xml -> target dev
+- was.path=D:/Jenkins/KRCP_Web
    
 운영:
 - web
