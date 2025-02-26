@@ -8,6 +8,7 @@ http://10.123.253.123:8080/
 개발 :KRVAKRCPWEBQA01 : 10.123.253.83
    was.path=D:/Jenkins/KRCP_Admin
    was.path=D:/Jenkins/KRCP_Web
+   
 운영:
 - web
 	- was.ip=10.123.250.145
