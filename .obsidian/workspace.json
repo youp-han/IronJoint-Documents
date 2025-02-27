@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Slack Notification"
             }
+          },
+          {
+            "id": "bec058021e94d259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Jenkins/AWS Sample.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AWS Sample"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,12 +210,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "323b4994467bbd80",
+  "active": "bec058021e94d259",
   "lastOpenFiles": [
+    "6. Jenkins/Slack Notification.md",
+    "6. Jenkins/AWS Sample.md",
     "6. Jenkins/Timestamper.md",
     "무제 파일.md",
     "무제 파일 1.md",
-    "6. Jenkins/Slack Notification.md",
     "5. work/jenkins - KRCP- ing.md",
     "6. Jenkins",
     "5. work/jenkins - EKKS - finish.md",
@@ -216,7 +242,6 @@
     "4. Tistory/Obsidian/steamdeck switch emulator yuzu 설치.md",
     "1. innolink api(CH) 회의/12-11일 회의.md",
     "1. innolink api(CH) 회의/10-24일 회의.md",
-    "1. innolink api(CH) 회의/api= tables.md",
     "3. Personal/game",
     "3. Personal",
     "Pasted image 20230922144440.png",
