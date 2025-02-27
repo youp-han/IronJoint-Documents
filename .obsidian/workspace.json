@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Jenkins/AWS Sample.md",
+                "file": "6. Jenkins/Timestamper.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AWS Sample"
+              "title": "Timestamper"
             }
           }
         ],
