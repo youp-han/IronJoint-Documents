@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. work/jenkins - KRCP- ing.md",
+                "file": "6. Jenkins/Slack Notification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "jenkins - KRCP- ing"
+              "title": "Slack Notification"
             }
           }
         ]
@@ -187,12 +187,15 @@
   },
   "active": "323b4994467bbd80",
   "lastOpenFiles": [
+    "6. Jenkins/Timestamper.md",
+    "무제 파일.md",
+    "무제 파일 1.md",
+    "6. Jenkins/Slack Notification.md",
+    "5. work/jenkins - KRCP- ing.md",
+    "6. Jenkins",
     "5. work/jenkins - EKKS - finish.md",
     "5. work/jenkins -fbow -finish.md",
     "5. work/Jenkins -Elis.md",
-    "5. work/jenkins - KRCP- ing.md",
-    "무제 파일.md",
-    "무제 파일 1.md",
     "jira-svn 연동.md",
     "Pasted image 20230922144404.png",
     "1. innolink api(CH) 회의/운영 china.md",
@@ -214,7 +217,6 @@
     "1. innolink api(CH) 회의/12-11일 회의.md",
     "1. innolink api(CH) 회의/10-24일 회의.md",
     "1. innolink api(CH) 회의/api= tables.md",
-    "1. innolink api(CH) 회의/DB SQL.md",
     "3. Personal/game",
     "3. Personal",
     "Pasted image 20230922144440.png",
@@ -223,7 +225,6 @@
     "2. Project-API-Link",
     "example_json.txt",
     "user-data-form（案例）.txt",
-    "group-data-form（案例）.txt",
-    "settings.xml"
+    "group-data-form（案例）.txt"
   ]
 }
