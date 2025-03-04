@@ -30,6 +30,16 @@
               "icon": "lucide-file",
               "title": "Hell Divers2 - 미션 종류"
             }
+          },
+          {
+            "id": "beae0f892ec5cb44",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
           }
         ]
       }
@@ -187,8 +197,8 @@
   },
   "active": "bec058021e94d259",
   "lastOpenFiles": [
-    "5. work/jenkins - KRCP- ing.md",
     "4. Tistory/games/Hell Divers2 - 미션 종류.md",
+    "5. work/jenkins - KRCP- ing.md",
     "4. Tistory/games/Hell Divers 2 - 난이도.md",
     "4. Tistory/games",
     "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
