@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bec058021e94d259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Tistory/games/Hell Divers2 - 미션 종류.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hell Divers2 - 미션 종류"
-            }
-          },
-          {
             "id": "beae0f892ec5cb44",
             "type": "leaf",
             "state": {
@@ -195,7 +171,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bec058021e94d259",
+  "active": "beae0f892ec5cb44",
   "lastOpenFiles": [
     "4. Tistory/games/Hell Divers2 - 미션 종류.md",
     "5. work/jenkins - KRCP- ing.md",
