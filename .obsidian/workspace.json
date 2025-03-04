@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "323b4994467bbd80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Jenkins/Slack Notification.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Slack Notification"
-            }
-          },
-          {
             "id": "bec058021e94d259",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. work/jenkins - KRCP- ing.md",
+                "file": "4. Tistory/Hell Divers 2 - 난이도.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "jenkins - KRCP- ing"
+              "title": "Hell Divers 2 - 난이도"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,14 +185,66 @@
       "obsidian42-brat:BRAT": false
     }
   },
+  "floating": {
+    "id": "d4dddb9b0a536da3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6406c56b8fadcfdf",
+        "type": "window",
+        "children": [
+          {
+            "id": "ca263300afd63f42",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "323b4994467bbd80",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4. Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1154,
+        "y": 1494,
+        "width": 821,
+        "height": 810,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "bec058021e94d259",
   "lastOpenFiles": [
+    "5. work/jenkins - KRCP- ing.md",
+    "4. Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "4. Tistory/Hell Divers 2 - 난이도.md",
+    "4. Tistory/Obsidian/steamdeck switch emulator yuzu 설치.md",
+    "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
+    "6. Jenkins/Slack Notification.md",
     "4. Tistory/드디어/war background.md",
     "4. Tistory/드디어/중요 타임라인.md",
-    "6. Jenkins/Slack Notification.md",
     "4. Tistory/Steam/PS Portal.md",
-    "5. work/jenkins - KRCP- ing.md",
     "6. Jenkins/Timestamper.md",
     "6. Jenkins/AWS Sample.md",
     "무제 파일.md",
@@ -234,14 +261,11 @@
     "1. innolink api(CH) 회의/2024-09-03 회의.md",
     "1. innolink api(CH) 회의/2024-08-20 회의.md",
     "5. work",
-    "4. Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "Pasted image 20250108163110.png",
     "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
     "ToDo.md",
     "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
     "1. innolink api(CH) 회의/회의 2024-07-23.md",
-    "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
-    "4. Tistory/Obsidian/steamdeck switch emulator yuzu 설치.md",
     "3. Personal/game",
     "3. Personal",
     "Pasted image 20230922144440.png",
