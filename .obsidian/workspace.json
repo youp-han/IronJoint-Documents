@@ -185,62 +185,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "d4dddb9b0a536da3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6406c56b8fadcfdf",
-        "type": "window",
-        "children": [
-          {
-            "id": "ca263300afd63f42",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "323b4994467bbd80",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "4. Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 820,
-        "y": 1482,
-        "width": 820,
-        "height": 809,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "bec058021e94d259",
   "lastOpenFiles": [
+    "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "4. Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "4. Tistory/Hell Divers 2 - 난이도.md",
     "5. work/jenkins - KRCP- ing.md",
     "4. Tistory/Obsidian/steamdeck switch emulator yuzu 설치.md",
-    "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "6. Jenkins/Slack Notification.md",
     "4. Tistory/드디어/war background.md",
     "4. Tistory/드디어/중요 타임라인.md",

@@ -1,13 +1,3 @@
----
-tistoryBlogName: yobine
-tistoryTitle: Hell Divers 2 - 난이도
-tistoryTags: "#helldivers2, #난이도, #ps5, #games, #옵시디언, #티스토리, #tistory, #obsidian"
-tistoryVisibility: "3"
-tistoryCategory: "1161798"
-tistoryPublished: 
-tistoryPostId: "609"
-tistoryPostUrl: https://yobine.tistory.com/609
----
 참고 싸이트 : [All Difficulty Levels in Helldivers 2, Explained | The Nerd Stash](https://thenerdstash.com/all-difficulty-levels-in-helldivers-2-explained/)
 
 "은하계 전역에 민주주의를 확산시키는 일은 결코 쉬운 일이 아닙니다. 우주에는 치명적인 벌레들과 살인적인 금속들이 득실거리고 있습니다. 수퍼 지구의 굳건한 수호자로서, 당신은 당연히 더 어려운 임무에 가능한 한 빨리 도전해 이 위협들을 제거하고 싶을 것입니다, 그렇죠? 하지만 인내심이 필요합니다. 헬다이버즈 2에서 더 높은 난이도 레벨에 도전하기 전에, 먼저 당신의 능력을 다듬어야 합니다."
