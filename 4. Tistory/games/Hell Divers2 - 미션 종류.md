@@ -3,9 +3,9 @@
 
 헬다이버즈 2에는 플레이어가 9개의 난이도 레벨에서 수행할 수 있는 다양한 미션이 있습니다. 평화 유지 임무를 수행하거나, 집중 공격으로부터 행성을 방어하는 등 다양한 목표가 여러분을 기다리고 있습니다. 이 가이드는 오토마톤과 터미니드 진영의 미션 유형을 다루며, 각 미션을 완료하는 방법, 완료에 주어진 시간 등 자세한 정보를 제공합니다.
 
-- [List of General Mission](https://www.ign.com/wikis/helldivers-2/Mission_Type_Guide#List_of_General_Mission)
-- [List of Terminid Mission Types in Helldivers 2](https://www.ign.com/wikis/helldivers-2/Mission_Type_Guide#List_of_Terminid_Mission_Types_in_Helldivers_2)
-- [List of Automaton Mission Types in Helldivers 2](https://www.ign.com/wikis/helldivers-2/Mission_Type_Guide#List_of_Automaton_Mission_Types_in_Helldivers_2)
+- List of General Mission Types in Helldivers 2
+- List of Terminid Mission Types in Helldivers 2
+- List of Automaton Mission Types in Helldivers 2
 
 List of General Mission
 이 미션들은 터미니드 (Terminid) 와 오토마톤 (Automaton)  진영 모두에서 갤럭틱 워 맵에서 찾을 수 있는 미션들입니다. 이 미션들은 특정 진영에 속하지 않기 때문에 목표와 하위 목표는 동일하게 유지됩니다. 다른 점은 미션을 수행할 때 마주치는 적들뿐입니다.
@@ -21,7 +21,6 @@ List of General Mission
 | Emergency Evacuation          | 긴급 대피           | 갇힌 민간인을 대피시킵니다. 먼저 통신 링크를 설정하는 부가 목표로 이동합니다. 그런 다음 민간인이 갇힌 긴급 벙커로 이동합니다. 터미널을 활성화한 후 긴급 벙커 밖에서 버튼을 눌러 민간인을 방출합니다.           | 40분    | Medium, Challenging, Hard, Extreme, Suicide Mission, Impossible, Helldive |
 
 List of Terminid Mission Types in Helldivers 2
-
 터미니드 미션들은 터미니드 진영에 특화되어 있으며 갤럭틱 워 맵의 오른쪽에서 찾을 수 있습니다.
 
 | 미션 이름                      | 목표           | 미션 완료 방법                                                                                                                                                                 | 주어진 시간 | 난이도                                                                   |
@@ -38,20 +37,16 @@ List of Terminid Mission Types in Helldivers 2
 
 
 List of Automation Mission Types in Helldivers 2
+오토마톤 미션들은 오토마톤 진영에 특화되어 있으며 갤럭틱 워 맵의 왼쪽에서 찾을 수 있습니다.
 
-이 미션들은 오토마톤 진영에 특화되어 있으며 갤럭틱 워 맵의 왼쪽에서 찾을 수 있습니다.
+| 미션 이름                              | 목표               | 미션 완료 방법                             | 주어진 시간                                                                                                                               | 난이도 |                                                                           |
+| ---------------------------------- | ---------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | --- | ------------------------------------------------------------------------- |
+| Eliminate Devastators              | 파괴자 제거, 오토마톤 파괴자를 찾아 제거합니다.                  | 파괴자를 찾아 제거합니다.                                                                                                                       | 40분 | Trivial, Easy                                                             |
+| Sabotage Supply Bases              | 보급 기지 파괴, 오토마톤 비축 물자를 추적하여 파괴합니다.              | 이 미션에는 두 가지 주요 목표가 있습니다: 연료 비축물 파괴 및 비축된 탄약 파괴. 두 목표 모두를 파괴하는 데 헬봄을 호출할 수 있지만, 간단한 수류탄으로도 탄약 공급을 파괴할 수 있습니다.                         | 40분 | Trivial, Easy, Medium                                                     |
+| Destroy Transmission Network       | 전송 네트워크 파괴, 오토마톤 전송 스트림을 위한 안테나 파괴               | 지도에 있는 안테나를 찾아 각 사각형을 조준하여 파괴합니다.                                                                                                    | 40분 | Easy, Medium                                                              |
+| Eradicate Automaton Forces         | 오토마톤 병력 박멸, 오토마톤을 죽여 그 수를 줄입니다.                  | 이 빠른 미션에서는 탐험할 공간이 많지 않습니다. 추출 지점 근처의 작은 지역에 갇히게 되며, 오토마톤의 온갖 공격이 당신을 향해 쏟아집니다. 주어진 시간 내에 가능한 많은 오토마톤을 제거하기 위해 중화기를 가져가고 센트리를 배치하세요. | 15분 | Medium, Challenging, Hard, Extreme, Suicide Mission, Impossible, Helldive |
+| Automaton Blitz Search And Destroy | 번개전: 수색 및 파괴, 오토마톤 제작자를 찾아 파괴합니다.                  | 지도에서 빨간 불빛을 찾아 돌아다니며 오토마톤 제작자를 찾아야 합니다. 오토마톤이 나오는 작은 건물을 찾아 화재가 발생하는 곳을 파괴해야 합니다.                                                    | 12분 | Medium, Challenging, Hard, Extreme, Suicide Mission, Impossible, Helldive |
+| Sabotage Air Base Mission .png     | 공군 기지 파괴, 오토마톤의 항공 능력을 파괴합니다.                  | 항공 기지를 찾아 유지보수 중인 드롭십을 파괴합니다. 시설에 접근할 때 헬봄을 사용할 수 있습니다.                                                                              | 40분 | Medium, Challenging, Hard, Extreme, Suicide Mission, Impossible, Helldive |
+| Factory Strider                    | 오토마톤 공장 스트라이더 제거, 오토마톤 공장 스트라이더를 찾아 제거합니다.             | 공장 스트라이더를 찾아 제거합니다.                                                                                                                  | 40분 | Hard, Extreme, Suicide Mission, Impossible, Helldive                      |
+| Destroy Command Bunkers            | 지휘 벙커 파괴, 로봇이 정보 네트워크에 접근하지 못하도록 지휘 벙커를 파괴합니다. | 지휘 벙커는 철저히 경비되지만, 이를 파괴하기 위해 헬봄을 제공받게 됩니다.                                                                                           | 40분 | Suicide Mission, Helldive                                                 |
 
-오토마톤 미션
-
-|미션 이름|목표|미션 완료 방법|주어진 시간|난이도|
-|---|---|---|---|---|
-|Eliminate Devastators Icon .png|파괴자 제거|오토마톤 파괴자를 찾아 제거합니다.|파괴자를 찾아 제거합니다.|40분|Trivial, Easy|
-|Sabotage Supply Bases Icon .png|보급 기지 파괴|오토마톤 비축 물자를 추적하여 파괴합니다.|이 미션에는 두 가지 주요 목표가 있습니다: 연료 비축물 파괴 및 비축된 탄약 파괴. 두 목표 모두를 파괴하는 데 헬봄을 호출할 수 있지만, 간단한 수류탄으로도 탄약 공급을 파괴할 수 있습니다.|40분|Trivial, Easy, Medium|
-|Destroy Transmission Network Icon .png|전송 네트워크 파괴|오토마톤 전송 스트림을 위한 안테나 파괴|지도에 있는 안테나를 찾아 각 사각형을 조준하여 파괴합니다.|40분|Easy, Medium|
-|Eradicate Automaton Forces Icon .png|오토마톤 병력 박멸|오토마톤을 죽여 그 수를 줄입니다.|이 빠른 미션에서는 탐험할 공간이 많지 않습니다. 추출 지점 근처의 작은 지역에 갇히게 되며, 오토마톤의 온갖 공격이 당신을 향해 쏟아집니다. 주어진 시간 내에 가능한 많은 오토마톤을 제거하기 위해 중화기를 가져가고 센트리를 배치하세요.|15분|Medium, Challenging, Hard, Extreme, Suicide Mission, Impossible, Helldive|
-|Automaton Blitz Search And Destroy Icon .png|번개전: 수색 및 파괴|오토마톤 제작자를 찾아 파괴합니다.|지도에서 빨간 불빛을 찾아 돌아다니며 오토마톤 제작자를 찾아야 합니다. 오토마톤이 나오는 작은 건물을 찾아 화재가 발생하는 곳을 파괴해야 합니다.|12분|Medium, Challenging, Hard, Extreme, Suicide Mission, Impossible, Helldive|
-|Sabotage Air Base Mission .png|공군 기지 파괴|오토마톤의 항공 능력을 파괴합니다.|항공 기지를 찾아 유지보수 중인 드롭십을 파괴합니다. 시설에 접근할 때 헬봄을 사용할 수 있습니다.|40분|Medium, Challenging, Hard, Extreme, Suicide Mission, Impossible, Helldive|
-|Factory Strider Icon .png|오토마톤 공장 스트라이더 제거|오토마톤 공장 스트라이더를 찾아 제거합니다.|공장 스트라이더를 찾아 제거합니다.|40분|Hard, Extreme, Suicide Mission, Impossible, Helldive|
-|Destroy Command Bunkers Icon .png|지휘 벙커 파괴|로봇이 정보 네트워크에 접근하지 못하도록 지휘 벙커를 파괴합니다.|지휘 벙커는 철저히 경비되지만, 이를 파괴하기 위해 헬봄을 제공받게 됩니다.|40분|Suicide Mission, Helldive|
-
-도움이 되셨길 바랍니다! 다른 도움이 필요하면 언제든지 알려주세요.
