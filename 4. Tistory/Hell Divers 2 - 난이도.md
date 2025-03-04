@@ -5,7 +5,8 @@ tistoryTags: "#helldivers2, #난이도, #ps5, #games, #옵시디언, #티스토�
 tistoryVisibility: "3"
 tistoryCategory: "1161798"
 tistoryPublished: 
-tistoryPostId:
+tistoryPostId: "609"
+tistoryPostUrl: https://yobine.tistory.com/609
 ---
 참고 싸이트 : [All Difficulty Levels in Helldivers 2, Explained | The Nerd Stash](https://thenerdstash.com/all-difficulty-levels-in-helldivers-2-explained/)
 

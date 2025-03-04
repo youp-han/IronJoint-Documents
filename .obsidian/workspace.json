@@ -225,10 +225,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1154,
-        "y": 1494,
-        "width": 821,
-        "height": 810,
+        "x": 820,
+        "y": 1482,
+        "width": 820,
+        "height": 809,
         "maximize": false,
         "zoom": 0
       }
@@ -236,9 +236,9 @@
   },
   "active": "bec058021e94d259",
   "lastOpenFiles": [
-    "5. work/jenkins - KRCP- ing.md",
     "4. Tistory/Obsidian/Obsidian 노트, 컴퓨터 외 기기들과 동기화(Sync)하기.md",
     "4. Tistory/Hell Divers 2 - 난이도.md",
+    "5. work/jenkins - KRCP- ing.md",
     "4. Tistory/Obsidian/steamdeck switch emulator yuzu 설치.md",
     "4. Tistory/Obsidian/Obsidian 에서 티스토리로 글 보내기.md",
     "6. Jenkins/Slack Notification.md",
