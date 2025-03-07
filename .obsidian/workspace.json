@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. work/jenkins - KRCP- ing.md",
+                "file": "3. Personal/progaram/renthouse/rent-house.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "jenkins - KRCP- ing"
+              "title": "rent-house"
             }
           }
         ]
@@ -187,9 +187,14 @@
   },
   "active": "beae0f892ec5cb44",
   "lastOpenFiles": [
+    "3. Personal/progaram/getRichj.md",
+    "3. Personal/progaram/renthouse/rent-house.md",
+    "3. Personal/progaram/renthouse",
+    "3. Personal/progaram",
+    "5. work/jenkins - KRCP- ing.md",
+    "README.md",
     "5. work/jenkins -fbow -finish.md",
     "5. work/Jenkins -Elis.md",
-    "5. work/jenkins - KRCP- ing.md",
     "4. Tistory/games/Hell Divers2 - 미션 종류.md",
     "4. Tistory/games/Hell Divers 2 - 난이도.md",
     "4. Tistory/games",
@@ -215,16 +220,11 @@
     "1. innolink api(CH) 회의/2024-08-20 회의.md",
     "5. work",
     "Pasted image 20250108163110.png",
-    "1. innolink api(CH) 회의/innoFrame nexus 배포.md",
-    "ToDo.md",
-    "1. innolink api(CH) 회의/인수인계 2024-06-07.md",
     "3. Personal/game",
     "3. Personal",
     "Pasted image 20230922144440.png",
     "3. Personal/git",
     "4. Tistory/드디어",
-    "2. Project-API-Link",
-    "example_json.txt",
-    "user-data-form（案例）.txt"
+    "2. Project-API-Link"
   ]
 }
