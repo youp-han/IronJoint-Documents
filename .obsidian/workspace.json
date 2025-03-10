@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "rent-house"
             }
+          },
+          {
+            "id": "5baf50632d76eb31",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "beae0f892ec5cb44",
+  "active": "5baf50632d76eb31",
   "lastOpenFiles": [
     "3. Personal/progaram/getRichj.md",
     "3. Personal/progaram/renthouse/rent-house.md",
