@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Personal/progaram/renthouse/rent-house.md",
+                "file": "3. Personal/progaram/renthouse/Naver-api.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rent-house"
-            }
-          },
-          {
-            "id": "5baf50632d76eb31",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Naver-api"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +185,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5baf50632d76eb31",
+  "active": "beae0f892ec5cb44",
   "lastOpenFiles": [
-    "3. Personal/progaram/getRichj.md",
     "3. Personal/progaram/renthouse/rent-house.md",
+    "3. Personal/progaram/renthouse/Naver-api.md",
+    "Pasted image 20250310160538.png",
+    "3. Personal/progaram/getRichj.md",
     "3. Personal/progaram/renthouse",
     "3. Personal/progaram",
     "5. work/jenkins - KRCP- ing.md",
@@ -230,7 +219,6 @@
     "1. innolink api(CH) 회의/2024-08-07 회의.md",
     "1. innolink api(CH) 회의/2024-10-21.md",
     "1. innolink api(CH) 회의/2024-09-03 회의.md",
-    "1. innolink api(CH) 회의/2024-08-20 회의.md",
     "5. work",
     "Pasted image 20250108163110.png",
     "3. Personal/game",
