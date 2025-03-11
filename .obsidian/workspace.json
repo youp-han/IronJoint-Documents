@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Personal/progaram/renthouse/rent-house.md",
+                "file": "3. Personal/progaram/renthouse/bootstrap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "rent-house"
+              "title": "bootstrap"
             }
           }
         ]
@@ -187,9 +187,10 @@
   },
   "active": "beae0f892ec5cb44",
   "lastOpenFiles": [
+    "3. Personal/progaram/renthouse/rent-house.md",
+    "3. Personal/progaram/renthouse/bootstrap.md",
     "3. Personal/progaram/renthouse/kakao-api.md",
     "3. Personal/progaram/renthouse/Naver-api.md",
-    "3. Personal/progaram/renthouse/rent-house.md",
     "Pasted image 20250310160538.png",
     "3. Personal/progaram/getRichj.md",
     "3. Personal/progaram/renthouse",
@@ -218,7 +219,6 @@
     "Pasted image 20230922144404.png",
     "1. innolink api(CH) 회의/운영 china.md",
     "1. innolink api(CH) 회의/2024-08-07 회의.md",
-    "1. innolink api(CH) 회의/2024-10-21.md",
     "5. work",
     "Pasted image 20250108163110.png",
     "3. Personal/game",
