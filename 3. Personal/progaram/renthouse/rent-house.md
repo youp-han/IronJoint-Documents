@@ -5,7 +5,13 @@
 **기능:**
 
 - 건물주는 웹 프로그램에 로그인할 수 있습니다.
-- Naver Login
+- admin
+	- Naver Login
+	- kakao login
+- 사용자 등록
+	- admin 등록
+	- tenant 등록
+		- admin 에게 확인
 ![[]]
 - 로그인 후 건물주 전용 대시보드를 볼 수 있습니다.
     
