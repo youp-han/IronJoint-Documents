@@ -7,5 +7,7 @@ lombok.Data; 이다.
 이문제는 
 file-settings->build,execution,deployment->compiler->annotation processors 
 - Enable annotation process (checked)
+- Processor path: 에서
 - Obtrain Processors from project classpath... 로 변경
-- 
+
+이걸로 꽤 시간 낭비함.
